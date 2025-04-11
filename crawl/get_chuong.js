@@ -15,7 +15,7 @@ const headers = {
 };
 
 // Thư mục lưu dữ liệu
-const DATA_DIR = './gacsach_data';
+const DATA_DIR = './gacsach_data/book_content';
 let chapterLimit = 0;
 let dirTileBook = 'detail';
 
@@ -41,7 +41,6 @@ async function getBookDetails(bookUrl) {
 
         // Phân tích HTML
         const $ = cheerio.load(html);
-
         // Lấy thông tin cơ bản
         const title = $('.page-title').text().trim();
         const author = $('.field-name-field-author .field-item a').text().trim();
@@ -55,7 +54,9 @@ async function getBookDetails(bookUrl) {
 
         // Lấy danh sách chương
         const chapters = [];
-        $('#book-navigation-1434175 .menu li a').each((index, element) => {
+        const bookNavId = $('div[id^="book-navigation-"]').attr('id');
+        console.log(`=====> ${bookNavId}`)
+        $('#' + bookNavId + ' .menu li a').each((index, element) => {
             const chapterTitle = $(element).text().trim();
             const chapterUrl = $(element).attr('href');
 
@@ -261,7 +262,7 @@ async function crawlBookAndChapters(bookUrl) {
 }
 
 // Thông tin sách cần lấy
-const testBookUrl = '/cay-chuoi-non-di-giay-xanh_nguyen-nhat-anh.full';
+const testBookUrl = '/bach-luyen-thanh-than-c_an-tu-giai-thoat.full';
 
 // Lấy 3 chương đầu tiên để test
 crawlBookAndChapters(testBookUrl)
