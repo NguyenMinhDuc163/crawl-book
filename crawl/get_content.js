@@ -4,6 +4,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
 const {normalizeVietnameseString} = require("../utility/normalize");
+const {extractStructuredText} = require("../utility/clean_html");
 
 // URL cơ bản
 const BASE_URL = 'https://gacsach.top';
@@ -17,10 +18,10 @@ const headers = {
 // ===== CẤU HÌNH CRAWLER =====
 // CỜ BẬT/TẮT VIỆC LẤY TẤT CẢ
 const FETCH_ALL = {
-    files: true,        // true = lấy tất cả file, false = sử dụng FILE_RANGE
-    booksPerFile: true, // true = lấy tất cả sách trong mỗi file, false = sử dụng BOOK_RANGE_PER_FILE
-    books: true,       // true = lấy tất cả sách tổng thể, false = sử dụng BOOK_RANGE
-    chapters: true     // true = lấy tất cả chương của mỗi sách, false = sử dụng CHAPTER_RANGE
+    files: false,        // true = lấy tất cả file, false = sử dụng FILE_RANGE
+    booksPerFile: false, // true = lấy tất cả sách trong mỗi file, false = sử dụng BOOK_RANGE_PER_FILE
+    books: false,       // true = lấy tất cả sách tổng thể, false = sử dụng BOOK_RANGE
+    chapters: false     // true = lấy tất cả chương của mỗi sách, false = sử dụng CHAPTER_RANGE
 };
 
 // Khoảng file JSON cần xử lý (chỉ áp dụng khi FETCH_ALL.files = false)
@@ -44,7 +45,7 @@ const BOOK_RANGE = {
 // Khoảng chương cần lấy cho mỗi sách (chỉ áp dụng khi FETCH_ALL.chapters = false)
 const CHAPTER_RANGE = {
     start: 0,  // Chương đầu tiên
-    end: 2     // Chương thứ ba
+    end: 10     // Chương thứ ba
 };
 
 // Thời gian đợi giữa các request (đơn vị: ms)
@@ -309,8 +310,8 @@ async function getChapterContent(chapterUrl) {
 
         // Lấy thông tin chương
         const title = $('.page-title').text().trim();
-        const content = $('.field-name-body .field-item').html();
-
+        // const content = $('.field-name-body .field-item').html();
+        const content = extractStructuredText($('.field-name-body .field-item').html());
         // Lấy link chương trước/sau (nếu có)
         let nextChapter = null;
         let prevChapter = null;
