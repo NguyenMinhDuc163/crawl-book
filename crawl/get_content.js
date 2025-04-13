@@ -18,7 +18,7 @@ const headers = {
 // ===== CẤU HÌNH CRAWLER =====
 // CỜ BẬT/TẮT VIỆC LẤY TẤT CẢ
 const FETCH_ALL = {
-    files: false,        // true = lấy tất cả file, false = sử dụng FILE_RANGE
+    files: true,        // true = lấy tất cả file, false = sử dụng FILE_RANGE
     booksPerFile: false, // true = lấy tất cả sách trong mỗi file, false = sử dụng BOOK_RANGE_PER_FILE
     books: false,       // true = lấy tất cả sách tổng thể, false = sử dụng BOOK_RANGE
     chapters: false     // true = lấy tất cả chương của mỗi sách, false = sử dụng CHAPTER_RANGE
@@ -33,7 +33,7 @@ const FILE_RANGE = {
 // Khoảng sách cần lấy từ mỗi file (chỉ áp dụng khi FETCH_ALL.booksPerFile = false)
 const BOOK_RANGE_PER_FILE = {
     start: 0,  // Sách đầu tiên trong file
-    end: 2     // Sách thứ ba
+    end: 4     // Sách thứ ba
 };
 
 // Khoảng sách tổng thể cần xử lý (chỉ áp dụng khi FETCH_ALL.books = false)
@@ -45,7 +45,7 @@ const BOOK_RANGE = {
 // Khoảng chương cần lấy cho mỗi sách (chỉ áp dụng khi FETCH_ALL.chapters = false)
 const CHAPTER_RANGE = {
     start: 0,  // Chương đầu tiên
-    end: 10     // Chương thứ ba
+    end: 5     // Chương thứ ba
 };
 
 // Thời gian đợi giữa các request (đơn vị: ms)
