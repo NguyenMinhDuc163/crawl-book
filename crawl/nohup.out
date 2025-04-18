@@ -1,0 +1,345 @@
+=== CẤU HÌNH CRAWLER ===
+- Chế độ lấy tất cả:
+  + File: Bật
+  + Sách mỗi file: Bật
+  + Sách tổng thể: Bật
+  + Chương: Bật
+- Thời gian chờ: 1000ms (chương), 1000ms (sách)
+Tìm thấy 18 file JSON, sẽ xử lý 18 file
+Đã bật chế độ lấy tất cả file
+
+========== Đang xử lý file: books_khoa_hoc_-_ki_thuat.json ==========
+Đã lấy 8/8 URL sách từ file books_khoa_hoc_-_ki_thuat.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Đường Đời Rạng Rỡ: https://gacsach.top/duong-doi-rang-ro_tran-sa.full
+  2. Chiều bên kia cái biết: https://gacsach.top/chieu-ben-kia-cai-biet_osho.full
+  3. Bàn về Tự Do: https://gacsach.top/ban-ve-tu-do_john-stuart-mill.full
+  ... và 5 URL khác
+
+========== Đang xử lý file: books_kinh_te.json ==========
+Đã lấy 60/60 URL sách từ file books_kinh_te.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Người Khổng Lồ Nghiêng Vai: https://gacsach.top/nguoi-khong-lo-nghieng-vai_ayn-rand.full
+  2. Sức Mạnh Giàu Có Vô Tận Bên Trong Bạn: https://gacsach.top/suc-manh-giau-co-vo-tan-ben-trong-ban_joseph-murphy.full
+  3. Miracle Power For Infinite Riches - Sức Mạnh Kỳ Diệu Cho Sự Giàu Có Vô Hạn: https://gacsach.top/miracle-power-for-infinite-riches-suc-manh-ky-dieu-cho-su-giau-co-vo-han_joseph-murphy.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_ky_ao.json ==========
+Đã lấy 60/60 URL sách từ file books_ky_ao.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Harry Potter toàn tập: https://gacsach.top/harry-potter-toan-tap_j-k-rowling.full
+  2. Thần Tử Hoang Cổ: https://gacsach.top/than-tu-hoang-co_vo-uu-95.full
+  3. Biên niên sử Narnia (Tập 4: Hoàng tử Caspian): https://gacsach.top/bien-nien-su-narnia-tap-4-hoang-tu-caspian_clive-staples-lewis.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_ky_nang_song.json ==========
+Đã lấy 60/60 URL sách từ file books_ky_nang_song.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Hạt giống tâm hồn (Tập 6): https://gacsach.top/hat-giong-tam-hon-tap-6_nhieu-tac-gia.full
+  2. Sức Mạnh Giàu Có Vô Tận Bên Trong Bạn: https://gacsach.top/suc-manh-giau-co-vo-tan-ben-trong-ban_joseph-murphy.full
+  3. Miracle Power For Infinite Riches - Sức Mạnh Kỳ Diệu Cho Sự Giàu Có Vô Hạn: https://gacsach.top/miracle-power-for-infinite-riches-suc-manh-ky-dieu-cho-su-giau-co-vo-han_joseph-murphy.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_lgbtq+.json ==========
+Đã lấy 60/60 URL sách từ file books_lgbtq+.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Anh Chủ Hung Dữ Và Bé Yêu Tinh Xinh Đẹp Của Hắn: https://gacsach.top/anh-chu-hung-du-va-be-yeu-tinh-xinh-dep-cua-han_hoa-hoa.full
+  2. Đại Sư Huynh Chỉ Biết Soi Gương Trang Điểm: https://gacsach.top/dai-su-huynh-chi-biet-soi-guong-trang-diem_co-mac-mac.full
+  3. Chàng Tiên Cá Của Nhân Vật Phản Diện: https://gacsach.top/chang-tien-ca-cua-nhan-vat-phan-dien_hac-mieu-bach-bach.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_lich_su_-_hoi_ky.json ==========
+Đã lấy 60/60 URL sách từ file books_lich_su_-_hoi_ky.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Không được đụng tới Việt Nam: https://gacsach.top/khong-duoc-dung-toi-viet-nam_nhieu-tac-gia.full
+  2. Phụng Vũ Trần Triều: https://gacsach.top/phung-vu-tran-trieu_tieu-tho-tu.full
+  3. Thiên Môn Hệ Liệt: https://gacsach.top/thien-mon-he-liet_phuong-bach-vu.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_linh_di.json ==========
+Đã lấy 60/60 URL sách từ file books_linh_di.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Chiếc Lồng Xương Thịt: https://gacsach.top/chiec-long-xuong-thit_vi-ngu.full
+  2. Tôi Ở Nhân Gian Livestream Đoán Mệnh: https://gacsach.top/toi-o-nhan-gian-livestream-doan-menh_mac-nhi-ngoc.full
+  3. Tokyo hoàng đạo án: https://gacsach.top/tokyo-hoang-dao-an_soji-shimada.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_ngon_tinh_trung_quoc.json ==========
+Đã lấy 60/60 URL sách từ file books_ngon_tinh_trung_quoc.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Sau Khi Kết Hôn, Ngày Nào Phó Tiên Sinh Cũng Ghen: https://gacsach.top/sau-khi-ket-hon-ngay-nao-pho-tien-sinh-cung-ghen_thau-ma-dau.full
+  2. Sau Khi Xuyên Thành Nữ Phụ Tự Nhiên Có Thêm Đứa Con Trai: https://gacsach.top/sau-khi-xuyen-thanh-nu-phu-tu-nhien-co-them-dua-con-trai_duong-duong-duong-qua.full
+  3. Đặt Cược Trái Tim: https://gacsach.top/dat-cuoc-trai-tim_phi-yen.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_sach_teen.json ==========
+Đã lấy 60/60 URL sách từ file books_sach_teen.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Bạn trai tôi đến từ thế giới khác: https://gacsach.top/ban-trai-toi-den-tu-the-gioi-khac_ha-miz.full
+  2. Trường học Vampire: https://gacsach.top/truong-hoc-vampire_thuyuuki.full
+  3. Hãy để anh nói: Anh yêu em: https://gacsach.top/hay-de-anh-noi-anh-yeu-em_rinfu-rikaki.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_tam_li_-_gioi_tinh.json ==========
+Đã lấy 60/60 URL sách từ file books_tam_li_-_gioi_tinh.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Vài lời ngỏ với bạn trẻ: https://gacsach.top/vai-loi-ngo-voi-ban-tre_nguyen-hien-le.full
+  2. Thiền và nghệ thuật đối diện với cuộc đời: https://gacsach.top/thien-va-nghe-thuat-doi-dien-voi-cuoc-doi_yogananda.full
+  3. Ván Cờ Người: https://gacsach.top/van-co-nguoi_vuong-thu-hung.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_thu_vien_sach.json ==========
+Đã lấy 20/20 URL sách từ file books_thu_vien_sach.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Bách Luyện Thành Thần [C]: https://gacsach.top/bach-luyen-thanh-than-c_an-tu-giai-thoat.full
+  2. Chồng Yêu Là Quỷ: https://gacsach.top/chong-yeu-la-quy_lam-lam.full
+  3. Lấy Nhầm Tổng Tài (Lấy Nhầm Tổng Tài Hạ Nhật Ninh): https://gacsach.top/lay-nham-tong-tai-lay-nham-tong-tai-ha-nhat-ninh_phan-hoa-phat-lieu.full
+  ... và 17 URL khác
+
+========== Đang xử lý file: books_trinh_tham.json ==========
+Đã lấy 60/60 URL sách từ file books_trinh_tham.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Rừng Răng-Tay: https://gacsach.top/rung-rang-tay_carrie-ryan.full
+  2. Tokyo hoàng đạo án: https://gacsach.top/tokyo-hoang-dao-an_soji-shimada.full
+  3. Cảnh sát đặc nhiệm Texas: https://gacsach.top/canh-sat-dac-nhiem-texas_diana-palmer.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_van_hoa_-_xa_hoi.json ==========
+Đã lấy 60/60 URL sách từ file books_van_hoa_-_xa_hoi.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Quyền Lực: https://gacsach.top/quyen-luc_bertrand-russell.full
+  2. Nhà Tài Phiệt Cuối Cùng: https://gacsach.top/nha-tai-phiet-cuoi-cung_f-scott-fitzgerald.full
+  3. 21 Bài Học Cho Thế Kỷ 21: https://gacsach.top/21-bai-hoc-cho-the-ky-21_yuval-noah-harari.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_van_hoc_kinh_đien.json ==========
+Đã lấy 60/60 URL sách từ file books_van_hoc_kinh_đien.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Người Khổng Lồ Nghiêng Vai: https://gacsach.top/nguoi-khong-lo-nghieng-vai_ayn-rand.full
+  2. Truyện Tự Truyện Của Một Yogi: https://gacsach.top/truyen-tu-truyen-cua-mot-yogi_paramahansa-yogananda.full
+  3. Ông Bạn Đẹp: https://gacsach.top/ong-ban-dep_guy-de-maupassant.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_van_hoc_phuong_tay.json ==========
+Đã lấy 60/60 URL sách từ file books_van_hoc_phuong_tay.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. 50 Sắc Thái - Fifty Shades of Grey: https://gacsach.top/50-sac-thai-fifty-shades-of-grey_e-l-james.full
+  2. Harry Potter toàn tập: https://gacsach.top/harry-potter-toan-tap_j-k-rowling.full
+  3. Biên niên sử Narnia (Tập 4: Hoàng tử Caspian): https://gacsach.top/bien-nien-su-narnia-tap-4-hoang-tu-caspian_clive-staples-lewis.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_van_hoc_phuong_đong.json ==========
+Đã lấy 60/60 URL sách từ file books_van_hoc_phuong_đong.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Đường Đời Rạng Rỡ: https://gacsach.top/duong-doi-rang-ro_tran-sa.full
+  2. Trảm long (Tập 1: Đại phong thủy sư): https://gacsach.top/tram-long-tap-1-dai-phong-thuy-su_hong-tran.full
+  3. Mùa tuyết rơi: https://gacsach.top/mua-tuyet-roi_trang-trang.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_van_hoc_viet_nam.json ==========
+Đã lấy 60/60 URL sách từ file books_van_hoc_viet_nam.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Cây Chuối Non Đi Giày Xanh: https://gacsach.top/cay-chuoi-non-di-giay-xanh_nguyen-nhat-anh.full
+  2. Lê hoa trong mưa: https://gacsach.top/le-hoa-trong-mua_mila.full
+  3. Vài lời ngỏ với bạn trẻ: https://gacsach.top/vai-loi-ngo-voi-ban-tre_nguyen-hien-le.full
+  ... và 57 URL khác
+
+========== Đang xử lý file: books_vo_hiep.json ==========
+Đã lấy 60/60 URL sách từ file books_vo_hiep.json
+Đã bật chế độ lấy tất cả sách trong file
+Các URL sách đã lấy từ file:
+  1. Decade Tối Thượng Hệ Thống: https://gacsach.top/decade-toi-thuong-he-thong_taosat.full
+  2. Thiên Đạo Hữu Khuyết: https://gacsach.top/thien-dao-huu-khuyet_bong-lan.full
+  3. Ta Dựa Vào Y Thuật Tung Hoành Tu Tiên Giới: https://gacsach.top/ta-dua-vao-y-thuat-tung-hoanh-tu-tien-gioi_bac-ha-mieu.full
+  ... và 57 URL khác
+
+Tổng cộng: 988 URL sách từ 18 file JSON
+
+Bắt đầu xử lý 988/988 sách
+Đã bật chế độ lấy tất cả sách tổng thể
+
+[1/988] Đang xử lý sách: Đường Đời Rạng Rỡ
+URL: https://gacsach.top/duong-doi-rang-ro_tran-sa.full
+Nguồn: books_khoa_hoc_-_ki_thuat.json
+Đang lấy thông tin sách từ: https://gacsach.top/duong-doi-rang-ro_tran-sa.full
+Đã tìm thấy book navigation ID: book-navigation-1437482
+Tìm thấy 100 chương
+Đã tạo thư mục mới: gacsach_data/book_content/duong_doi_rang_ro
+Đã lưu thông tin sách "Đường Đời Rạng Rỡ" vào gacsach_data/book_content/duong_doi_rang_ro/book_duong_doi_rang_ro.json
+Tổng số chương: 100
+Bắt đầu lấy nội dung 100/100 chương
+Đã bật chế độ lấy tất cả chương
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-01
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 01" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_01.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-02
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 02" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_02.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-03
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 03" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_03.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-04
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 04" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_04.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-05
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 05" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_05.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-06
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 06" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_06.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-07
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 07" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_07.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-08
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 08" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_08.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-09
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 09" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_09.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-10
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 10" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_10.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-11
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 11" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_11.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-12
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 12" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_12.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-13
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 13" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_13.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-14
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 14" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_14.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-15
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 15" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_15.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-16
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 16" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_16.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-17
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 17" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_17.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-18
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 18" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_18.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-19
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 19" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_19.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-20
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 20" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_20.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-21
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 21" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_21.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-22
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 22" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_22.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-23
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 23" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_23.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-24
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 24" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_24.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-25
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 25" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_25.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-26
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 26" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_26.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-27
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 27" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_27.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-28
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 28" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_28.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-29
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 29" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_29.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-30
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 30" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_30.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-31
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 31" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_31.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-32
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 32" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_32.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-33
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 33" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_33.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-34
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 34" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_34.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-35
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 35" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_35.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-36
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 36" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_36.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-37
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 37" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_37.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-38
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 38" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_38.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-39
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 39" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_39.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-40
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 40" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_40.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-41
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 41" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_41.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-42
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 42" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_42.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-43
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 43" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_43.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-44
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 44" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_44.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-45
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 45" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_45.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-46
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 46" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_46.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-47
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 47" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_47.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-48
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 48" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_48.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-49
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 49" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_49.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-50
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 50" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_50.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-51
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 51" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_51.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-52
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 52" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_52.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-53
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 53" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_53.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-54
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 54" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_54.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-55
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 55" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_55.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-56
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 56" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_56.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-57
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 57" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_57.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-58
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 58" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_58.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-59
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 59" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_59.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-60
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 60" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_60.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-61
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 61" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_61.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-62
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 62" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_62.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-63
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 63" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_63.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-64
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 64" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_64.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-65
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 65" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_65.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-66
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 66" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_66.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-67
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 67" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_67.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-68
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 68" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_68.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-69
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 69" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_69.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-70
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 70" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_70.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-71
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 71" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_71.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-72
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 72" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_72.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-73
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 73" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_73.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-74
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 74" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_74.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-75
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 75" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_75.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-76
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 76" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_76.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-77
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 77" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_77.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-78
+Đã lưu nội dung chương "Đường Đời Rạng Rỡ - Chương 78" vào gacsach_data/book_content/duong_doi_rang_ro/chapter_duong_doi_rang_ro_chuong_78.json
+Đang lấy nội dung chương từ: https://gacsach.top/doc-online/duong-doi-rang-ro-chuong-79

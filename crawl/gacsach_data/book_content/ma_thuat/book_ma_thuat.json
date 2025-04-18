@@ -1,0 +1,44 @@
+{
+  "title": "Ma thuật",
+  "author": "Milly Nguyễn",
+  "category": "Văn học Việt NamKỳ Ảo",
+  "status": "Đang ra",
+  "coverImage": "https://gacsach.top/sites/default/files/styles/book310/public/untitleddesign_1_original_0.jpg",
+  "description": "Phân vân một lúc rồi nói với giọng ngần ngại: \n- Xin chào, tôi là... Milleina.\n- Kẻ khiếm khuyết!\nCó người hét lên. Hình như là tiếng trẻ con. Theo sau là những tiếng xì xào.\n- Là thật, nó đây sao?\nP/s: Truyện này có đam mỹ và bách hợp nên mong bạn đọc cân nhắc.",
+  "rating": "",
+  "votes": "",
+  "views": "8883",
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "title": "Chương 01: Bắt đầu",
+      "url": "https://gacsach.top/doc-online/chuong-01-bat-dau",
+      "index": 1
+    },
+    {
+      "title": "Chương 02: Phép bay",
+      "url": "https://gacsach.top/doc-online/chuong-02-phep-bay",
+      "index": 2
+    },
+    {
+      "title": "Chương 03: Cái bài tập",
+      "url": "https://gacsach.top/doc-online/chuong-03-cai-bai-tap",
+      "index": 3
+    },
+    {
+      "title": "Chương 04: Diễn ra vào buổi chiều",
+      "url": "https://gacsach.top/doc-online/chuong-04-dien-ra-vao-buoi-chieu",
+      "index": 4
+    },
+    {
+      "title": "Chương 05: Ôi, thật à?",
+      "url": "https://gacsach.top/doc-online/chuong-05-oi-that-a",
+      "index": 5
+    },
+    {
+      "title": "Chương 6: Sắp",
+      "url": "https://gacsach.top/doc-online/chuong-6-sap",
+      "index": 6
+    }
+  ]
+}

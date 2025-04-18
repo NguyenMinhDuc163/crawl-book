@@ -19,8 +19,8 @@ const headers = {
 // CỜ BẬT/TẮT VIỆC LẤY TẤT CẢ
 const FETCH_ALL = {
     files: true,        // true = lấy tất cả file, false = sử dụng FILE_RANGE
-    booksPerFile: false, // true = lấy tất cả sách trong mỗi file, false = sử dụng BOOK_RANGE_PER_FILE
-    books: false,       // true = lấy tất cả sách tổng thể, false = sử dụng BOOK_RANGE
+    booksPerFile: true, // true = lấy tất cả sách trong mỗi file, false = sử dụng BOOK_RANGE_PER_FILE
+    books: true,       // true = lấy tất cả sách tổng thể, false = sử dụng BOOK_RANGE
     chapters: false     // true = lấy tất cả chương của mỗi sách, false = sử dụng CHAPTER_RANGE
 };
 
