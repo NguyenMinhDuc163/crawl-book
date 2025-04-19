@@ -1,0 +1,1562 @@
+{
+  "timestamp": "2025-04-19T03:48:49.809Z",
+  "stats": {
+    "total": 466,
+    "valid": 209,
+    "invalid": 3,
+    "null": 254,
+    "total_problematic": 257
+  },
+  "null_urls": [
+    {
+      "book_id": 171,
+      "title": "Thi tiên sinh thân yêu!",
+      "author": "Phu Nhân Thịt Viên",
+      "book_url": "https://gacsach.top/thi-tien-sinh-than-yeu.full"
+    },
+    {
+      "book_id": 4,
+      "title": "Kể chuyện về kim loại",
+      "author": "X.L. Venetxki",
+      "book_url": "https://gacsach.top/ke-chuyen-ve-kim-loai_xl-venetxki.full"
+    },
+    {
+      "book_id": 174,
+      "title": "Chồng Quỷ Tuyệt Mỹ",
+      "author": "Vĩ Nhất",
+      "book_url": "https://gacsach.top/chong-quy-tuyet-my_vi-nhat.full"
+    },
+    {
+      "book_id": 229,
+      "title": "Khúc mưa tan",
+      "author": "Kawi",
+      "book_url": "https://gacsach.top/khuc-mua-tan_kawi.full"
+    },
+    {
+      "book_id": 17,
+      "title": "Dám Nghĩ Lớn!",
+      "author": "David J.Schwartz. Ph.D",
+      "book_url": "https://gacsach.top/dam-nghi-lon_david-jschwartz-phd.full"
+    },
+    {
+      "book_id": 21,
+      "title": "Chiến Tranh Tiền Tệ - toàn tập",
+      "author": "Song Hong Bing",
+      "book_url": "https://gacsach.top/chien-tranh-tien-te-toan-tap_song-hong-bing.full"
+    },
+    {
+      "book_id": 15,
+      "title": "Cha giàu cha nghèo",
+      "author": "Sharon Lechter",
+      "book_url": "https://gacsach.top/cha-giau-cha-ngheo_robert-kiyosaki-sharon-lechter.full"
+    },
+    {
+      "book_id": 9,
+      "title": "Không Có Bữa Ăn Nào Miễn Phí",
+      "author": "Alan Phan",
+      "book_url": "https://gacsach.top/khong-co-bua-an-nao-mien-phi_alan-phan.full"
+    },
+    {
+      "book_id": 11,
+      "title": "Tiền Không Mua Được Gì?",
+      "author": "Michael Sandel",
+      "book_url": "https://gacsach.top/tien-khong-mua-duoc-gi_michael-sandel.full"
+    },
+    {
+      "book_id": 18,
+      "title": "Từ Tốt Đến Vĩ Đại",
+      "author": "Jim Collins",
+      "book_url": "https://gacsach.top/tu-tot-den-vi-dai_jim-collins.full"
+    },
+    {
+      "book_id": 13,
+      "title": "Dám Làm Giàu",
+      "author": "Phạm Tuấn Sơn",
+      "book_url": "https://gacsach.top/dam-lam-giau_pham-tuan-son.full"
+    },
+    {
+      "book_id": 19,
+      "title": "Chiến Tranh Tiền Tệ - Phần 3: Biên giới tiền tệ - Nhân tố bí ẩn trong các cuộc chiến kinh tế",
+      "author": "Song Hong Bing",
+      "book_url": "https://gacsach.top/chien-tranh-tien-te-phan-3_song-hongbing.full"
+    },
+    {
+      "book_id": 20,
+      "title": "Mặt dày tâm đen",
+      "author": "Chin-ning Chu",
+      "book_url": "https://gacsach.top/mat-day-tam-den_chin-ning-chu.full"
+    },
+    {
+      "book_id": 198,
+      "title": "Bạch Nguyêt Quang Của Nữ Phụ",
+      "author": "Triệu Linh Nhi",
+      "book_url": "https://gacsach.top/bach-nguyet-quang-cua-nu-phu_trieu-linh-nhi.full"
+    },
+    {
+      "book_id": 197,
+      "title": "Từ Từ Dụ Dỗ",
+      "author": "Bắc Khuynh",
+      "book_url": "https://gacsach.top/tu-tu-du-do_bac-khuynh.full"
+    },
+    {
+      "book_id": 236,
+      "title": "Sẽ để em yêu anh lần nữa (Tập 3)",
+      "author": "Born",
+      "book_url": "https://gacsach.top/se-de-em-yeu-anh-lan-nua-tap-3_born.full"
+    },
+    {
+      "book_id": 237,
+      "title": "Hai Kiếp Đều Là Anh",
+      "author": "Tiểu Kết Ngủ Ngày",
+      "book_url": "https://gacsach.top/hai-kiep-deu-la-anh_tieu-ket-ngu-ngay.full"
+    },
+    {
+      "book_id": 238,
+      "title": "Café yêu",
+      "author": "Minh Nhật",
+      "book_url": "https://gacsach.top/cafe-yeu_minh-nhat.full"
+    },
+    {
+      "book_id": 23,
+      "title": "Chiến Tranh Tiền Tệ - Phần 2: Sự thống trị của quyền lực tài chính",
+      "author": "Song Hong Bing",
+      "book_url": "https://gacsach.top/chien-tranh-tien-te-phan-2_song-hongbing.full"
+    },
+    {
+      "book_id": 16,
+      "title": "Trên đường băng",
+      "author": "Tony Buổi Sáng",
+      "book_url": "https://gacsach.top/tren-duong-bang_tony-buoi-sang.full"
+    },
+    {
+      "book_id": 239,
+      "title": "Học trò ma quỷ, học trò thần tiên",
+      "author": "Ngũ Mỹ Trân",
+      "book_url": "https://gacsach.top/hoc-tro-ma-quy-hoc-tro-than-tien_ngu-my-tran.full"
+    },
+    {
+      "book_id": 240,
+      "title": "Bạn Gái Của Thiếu Gia",
+      "author": "Kawi",
+      "book_url": "https://gacsach.top/ban-gai-cua-thieu-gia_kawi.full"
+    },
+    {
+      "book_id": 242,
+      "title": "Nụ hôn của gió",
+      "author": "SuSu",
+      "book_url": "https://gacsach.top/nu-hon-cua-gio_susu.full"
+    },
+    {
+      "book_id": 243,
+      "title": "Mật Tình - Tổng Tài Giả Ngốc Cấm Dụ Dỗ!",
+      "author": "Uyên Tố Tố",
+      "book_url": "https://gacsach.top/mat-tinh-tong-tai-gia-ngoc-cam-du-do_uyen-to-to.full"
+    },
+    {
+      "book_id": 244,
+      "title": "Bảo Bối Nhỏ Của Boss",
+      "author": "Thùy Hương",
+      "book_url": "https://gacsach.top/bao-boi-nho-cua-boss_thuy-huong.full"
+    },
+    {
+      "book_id": 233,
+      "title": "Lắng nghe nước mắt",
+      "author": "Voi Ngọt Ngào",
+      "book_url": "https://gacsach.top/lang-nghe-nuoc-mat_voi-ngot-ngao.full"
+    },
+    {
+      "book_id": 235,
+      "title": "Tiểu thư đi học",
+      "author": "Han Hee Jin",
+      "book_url": "https://gacsach.top/tieu-thu-di-hoc_han-hee-jin.full"
+    },
+    {
+      "book_id": 25,
+      "title": "Steve Jobs",
+      "author": "Walter Issacson",
+      "book_url": "https://gacsach.top/steve-jobs_walter-issacson.full"
+    },
+    {
+      "book_id": 27,
+      "title": "Thế Giới Cong",
+      "author": "David M. Smick",
+      "book_url": "https://gacsach.top/the-gioi-cong_david-m-smick.full"
+    },
+    {
+      "book_id": 22,
+      "title": "Những Âm Mưu Từ Đảo Jekyll - Nhận Diện Cục Dự Trữ Liên Bang",
+      "author": "G. Edward Griffin",
+      "book_url": "https://gacsach.top/nhung-am-muu-tu-dao-jekyll-nhan-dien-cuc-du-tru-lien-bang_g-edward-griffin.full"
+    },
+    {
+      "book_id": 24,
+      "title": "Tâm Lý Học Dành Cho Lãnh Đạo",
+      "author": "Mary M. Tjosvold",
+      "book_url": "https://gacsach.top/tam-ly-hoc-danh-cho-lanh-dao_dean-tjosvold-mary-m-tjosvold.full"
+    },
+    {
+      "book_id": 26,
+      "title": "Nếu Tôi Biết Được Khi Còn 20",
+      "author": "Tina Seelig",
+      "book_url": "https://gacsach.top/neu-toi-biet-duoc-khi-con-20_tina-seelig.full"
+    },
+    {
+      "book_id": 89,
+      "title": "Yêu thương và tự do",
+      "author": "Tôn Thụy Tuyết",
+      "book_url": "https://gacsach.top/yeu-thuong-va-tu-do_ton-thuy-tuyet.full"
+    },
+    {
+      "book_id": 199,
+      "title": "Sau Khi Nghỉ Việc, Ta Kế Thừa Nhà Hàng Dị Năng",
+      "author": "Triệu Linh Nhi",
+      "book_url": "https://gacsach.top/sau-khi-nghi-viec-ta-ke-thua-nha-hang-di-nang_trieu-linh-nhi.full"
+    },
+    {
+      "book_id": 247,
+      "title": "Nhật Ký Mang Thai Khi 17",
+      "author": "Võ Anh Thơ",
+      "book_url": "https://gacsach.top/nhat-ky-mang-thai-khi-17_vo-anh-tho.full"
+    },
+    {
+      "book_id": 248,
+      "title": "Con gái Mỹ 1",
+      "author": "Meg Cabot",
+      "book_url": "https://gacsach.top/con-gai-my-1_meg-cabot.full"
+    },
+    {
+      "book_id": 249,
+      "title": "Hồi ức của một linh hồn",
+      "author": "Tibu",
+      "book_url": "https://gacsach.top/hoi-uc-cua-mot-linh-hon_tibu.full"
+    },
+    {
+      "book_id": 57,
+      "title": "Tỉnh Vị Trì",
+      "author": "Diệp Phi Bạch",
+      "book_url": "https://gacsach.top/tinh-vi-tri_diep-phi-bach.full"
+    },
+    {
+      "book_id": 58,
+      "title": "Thủy Thần",
+      "author": "Dương Nhi",
+      "book_url": "https://gacsach.top/thuy-than_duong-nhi.full"
+    },
+    {
+      "book_id": 246,
+      "title": "Dị Thế Đoạt Tình",
+      "author": "Ajisai-chan",
+      "book_url": "https://gacsach.top/di-the-doat-tinh_ajisai-chan.full"
+    },
+    {
+      "book_id": 60,
+      "title": "Hồ Sơ Chuyện Lạ",
+      "author": "Hồng Y Quả",
+      "book_url": "https://gacsach.top/ho-so-chuyen-la_hong-y-qua.full"
+    },
+    {
+      "book_id": 62,
+      "title": "Chúa Tể Những Chiếc Nhẫn - Quyển 1: Đoàn hộ nhẫn",
+      "author": "J.R.R. Tolkien",
+      "book_url": "https://gacsach.top/chua-te-nhung-chiec-nhan-quyen-1-doan-ho-nhan_jrr-tolkien.full"
+    },
+    {
+      "book_id": 55,
+      "title": "Kẻ cắp tia chớp",
+      "author": "Rick Riordan",
+      "book_url": "https://gacsach.top/ke-cap-tia-chop_rick-riordan.full"
+    },
+    {
+      "book_id": 45,
+      "title": "Tập 1: Harry Potter và Hòn đá phù thủy",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-va-hon-da-phu-thuy_j-k-rowling.full"
+    },
+    {
+      "book_id": 46,
+      "title": "Nghìn lẻ một đêm",
+      "author": "Antoine Galland",
+      "book_url": "https://gacsach.top/nghin-le-mot-dem_antoine-galland.full"
+    },
+    {
+      "book_id": 48,
+      "title": "Tập 4: Harry Potter và Chiếc cốc lửa",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-va-chiec-coc-lua_jkrowling"
+    },
+    {
+      "book_id": 47,
+      "title": "Tập 2: Harry Potter và Phòng chứa bí mật",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-va-phong-chua-bi-mat_j-k-rowling.full"
+    },
+    {
+      "book_id": 49,
+      "title": "Tập 6: Harry Potter và Hoàng tử lai",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-va-hoang-tu-lai_j-k-rowling.full"
+    },
+    {
+      "book_id": 50,
+      "title": "Tập 5: Harry Potter Và Mật lệnh Phượng Hoàng",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-va-mat-lenh-phuong-hoang_j-k-rowling.full"
+    },
+    {
+      "book_id": 51,
+      "title": "Tập 7: Harry Potter và Bảo bối tử thần",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/tap-7-harry-potter-va-bao-boi-tu-than_j-k-rowling.full"
+    },
+    {
+      "book_id": 52,
+      "title": "Tập 3: Harry Potter Và Tên tù nhân ngục Azkaban",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-va-ten-tu-nhan-nguc-azkaban_full-jkrowling.full"
+    },
+    {
+      "book_id": 56,
+      "title": "Pottermore - Ngoại truyện Harry Potter",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/pottermore-ngoai-truyen-harry-potter_j-k-rowling.full"
+    },
+    {
+      "book_id": 59,
+      "title": "Siêu Cấp Cường Giả",
+      "author": "Phong Cuồng",
+      "book_url": "https://gacsach.top/sieu-cap-cuong-gia_phong-cuong.full"
+    },
+    {
+      "book_id": 61,
+      "title": "Phù Thủy Và Ma Cà Rồng",
+      "author": "Thính Không",
+      "book_url": "https://gacsach.top/phu-thuy-va-ma-ca-rong_thinh-khong.full"
+    },
+    {
+      "book_id": 90,
+      "title": "10 Quy Luật Cuộc Sống",
+      "author": "Dan Sullivan",
+      "book_url": "https://gacsach.top/10-quy-luat-cuoc-song_catherine-nomura-dan-sullivan.full"
+    },
+    {
+      "book_id": 92,
+      "title": "Những Câu Chuyện Tâm Linh",
+      "author": "Gary Zukav",
+      "book_url": "https://gacsach.top/nhung-cau-chuyen-tam-linh_gary-zukav.full"
+    },
+    {
+      "book_id": 251,
+      "title": "Đông, phong, hạ, vũ",
+      "author": "Không rõ",
+      "book_url": "https://gacsach.top/dong-phong-ha-vu_khong-ro.full"
+    },
+    {
+      "book_id": 84,
+      "title": "Đời Thay Đổi Khi Chúng Ta Thay Đổi",
+      "author": "Andrew Matthews",
+      "book_url": "https://gacsach.top/doi-thay-doi-khi-chung-ta-thay-doi_andrew-matthews.full"
+    },
+    {
+      "book_id": 86,
+      "title": "Khuyến Học",
+      "author": "Fukuzawa Yukichi",
+      "book_url": "https://gacsach.top/khuyen-hoc_fukuzawa-yukichi.full"
+    },
+    {
+      "book_id": 80,
+      "title": "Cà Phê Cùng Tony",
+      "author": "Tony Buổi Sáng",
+      "book_url": "https://gacsach.top/ca-phe-cung-tony_tony-buoi-sang.full"
+    },
+    {
+      "book_id": 88,
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "book_url": "https://gacsach.top/dac-nhan-tam_dale-carnegie.full"
+    },
+    {
+      "book_id": 81,
+      "title": "Dám Bị Ghét",
+      "author": "Koga Fumitake - Kishimi Ichiro",
+      "book_url": "https://gacsach.top/dam-bi-ghet_koga-fumitake-kishimi-ichiro.full"
+    },
+    {
+      "book_id": 83,
+      "title": "Dám thất bại",
+      "author": "Billi P.S.Lim",
+      "book_url": "https://gacsach.top/dam-that-bai_billi-pslim.full"
+    },
+    {
+      "book_id": 85,
+      "title": "Điều kì diệu của thái độ sống",
+      "author": "Mac Anderson",
+      "book_url": "https://gacsach.top/dieu-ki-dieu-cua-thai-do-song_mac-anderson.full"
+    },
+    {
+      "book_id": 87,
+      "title": "Tư Duy Phản Biện",
+      "author": "Zoe Mckey",
+      "book_url": "https://gacsach.top/tu-duy-phan-bien_zoe-mckey.full"
+    },
+    {
+      "book_id": 241,
+      "title": "Giờ ra chơi của nhóc Nicolas",
+      "author": "René Goscinny",
+      "book_url": "https://gacsach.top/gio-ra-choi-cua-nhoc-nicolas_rene-goscinny.full"
+    },
+    {
+      "book_id": 5,
+      "title": "Người Khổng Lồ Nghiêng Vai",
+      "author": "Ayn Rand",
+      "book_url": "https://gacsach.top/nguoi-khong-lo-nghieng-vai_ayn-rand.full"
+    },
+    {
+      "book_id": 79,
+      "title": "Sinh Ra Để Chạy",
+      "author": "Christopher McDougall",
+      "book_url": "https://gacsach.top/sinh-ra-de-chay_christopher-mcdougall.full"
+    },
+    {
+      "book_id": 91,
+      "title": "Nghệ Thuật Xoay Chuyển Tình Thế",
+      "author": "Nhiều tác giả",
+      "book_url": "https://gacsach.top/nghe-thuat-xoay-chuyen-tinh-the_nhieu-tac-gia.full"
+    },
+    {
+      "book_id": 77,
+      "title": "Quạ Khôn Không Bao Giờ Khá",
+      "author": "Moid Siddiqui",
+      "book_url": "https://gacsach.top/qua-khon-khong-bao-gio-kha_moid-siddiqui.full"
+    },
+    {
+      "book_id": 306,
+      "title": "Thiên thần và ác quỷ",
+      "author": "Dan Brown",
+      "book_url": "https://gacsach.top/thien-than-va-ac-quy_dan-brown.full"
+    },
+    {
+      "book_id": 135,
+      "title": "Phụng Vũ Trần Triều",
+      "author": "Tiểu Thọ Tử",
+      "book_url": "https://gacsach.top/phung-vu-tran-trieu_tieu-tho-tu.full"
+    },
+    {
+      "book_id": 111,
+      "title": "Xuyên Việt Chi Ký Sự Tiểu Thú Nhân Nhát Gan Tìm Công",
+      "author": "Mộc Dương Tử",
+      "book_url": "https://gacsach.top/xuyen-viet-chi-ky-su-tieu-thu-nhan-nhat-gan-tim-cong_moc-duong-tu.full"
+    },
+    {
+      "book_id": 112,
+      "title": "Cửu Tội",
+      "author": "Mặc Nguyệt Nghê Thường",
+      "book_url": "https://gacsach.top/cuu-toi_mac-nguyet-nghe-thuong.full"
+    },
+    {
+      "book_id": 113,
+      "title": "Mộng Xuân Tùy Tâm Sở Dục",
+      "author": "Vân thăng",
+      "book_url": "https://gacsach.top/mong-xuan-tuy-tam-so-duc_van-thang.full"
+    },
+    {
+      "book_id": 118,
+      "title": "Một Cái Quần Lót Tạo Nên Sóng Gió",
+      "author": "Nhược Mễ",
+      "book_url": "https://gacsach.top/mot-cai-quan-lot-tao-nen-song-gio_nhuoc-me.full"
+    },
+    {
+      "book_id": 125,
+      "title": "Tầm Hung Sách",
+      "author": "Lương Thiền",
+      "book_url": "https://gacsach.top/tam-hung-sach_luong-thien.full"
+    },
+    {
+      "book_id": 117,
+      "title": "Cự Tinh Vấn Đỉnh",
+      "author": "Mạc Thần Hoan",
+      "book_url": "https://gacsach.top/cu-tinh-van-dinh_mac-than-hoan.full"
+    },
+    {
+      "book_id": 119,
+      "title": "Mạch Lộ Quy Đồ",
+      "author": "Công Tử Như Lan",
+      "book_url": "https://gacsach.top/mach-lo-quy-do_cong-tu-nhu-lan.full"
+    },
+    {
+      "book_id": 114,
+      "title": "Ái Đích Thành Nhân Thức",
+      "author": "Phao Phao Tuyết Nhi",
+      "book_url": "https://gacsach.top/ai-dich-thanh-nhan-thuc_phao-phao-tuyet-nhi.full"
+    },
+    {
+      "book_id": 121,
+      "title": "Đam Tứ Tuyệt - Phần 2: Chỉ Là Ảo Giác",
+      "author": "Nhộng Hiên",
+      "book_url": "https://gacsach.top/dam-tu-tuyet-phan-2-chi-la-ao-giac_nhong-hien.full"
+    },
+    {
+      "book_id": 126,
+      "title": "Khoái Nhạc Trạch Cấp Tống",
+      "author": "Mê Dương",
+      "book_url": "https://gacsach.top/khoai-nhac-trach-cap-tong_me-duong.full"
+    },
+    {
+      "book_id": 122,
+      "title": "Cực Lạc Tiên Sư",
+      "author": "Mê Dương",
+      "book_url": "https://gacsach.top/cuc-lac-tien-su_me-duong.full"
+    },
+    {
+      "book_id": 123,
+      "title": "Thâm Độ Chí Tình",
+      "author": "Y Đình Mạt Đồng",
+      "book_url": "https://gacsach.top/tham-do-chi-tinh_y-dinh-mat-dong.full"
+    },
+    {
+      "book_id": 124,
+      "title": "Trùng Sinh Chi Lãnh Quân Noãn Tâm",
+      "author": "Hiên Viên Quỷ Hồ",
+      "book_url": "https://gacsach.top/trung-sinh-chi-lanh-quan-noan-tam_hien-vien-quy-ho.full"
+    },
+    {
+      "book_id": 133,
+      "title": "Boss! Xin Đừng Nóng Nảy",
+      "author": "Tuyết Nguyên U Linh",
+      "book_url": "https://gacsach.top/boss-xin-dung-nong-nay_tuyet-nguyen-u-linh.full"
+    },
+    {
+      "book_id": 120,
+      "title": "Tam Nhật Triền Miên",
+      "author": "Mặc Vũ Yên Dạ",
+      "book_url": "https://gacsach.top/tam-nhat-trien-mien_mac-vu-yen-da.full"
+    },
+    {
+      "book_id": 116,
+      "title": "Xuyên Thành Bạn Trai Của Vạn Nhân Mê",
+      "author": "Tây Oa",
+      "book_url": "https://gacsach.top/xuyen-thanh-ban-trai-cua-van-nhan-me_tay-oa.full"
+    },
+    {
+      "book_id": 143,
+      "title": "Danh Tướng Việt Nam",
+      "author": "Nguyễn Khắc Thuần",
+      "book_url": "https://gacsach.top/danh-tuong-viet-nam_nguyen-khac-thuan.full"
+    },
+    {
+      "book_id": 391,
+      "title": "Totto Chan – Cô bé bên cửa sổ",
+      "author": "Tetsuko Kuroyanagi",
+      "book_url": "https://gacsach.top/totto-chan-co-be-ben-cua-so_tetsuko-kuroyanagi.full"
+    },
+    {
+      "book_id": 392,
+      "title": "Thời gian tươi đẹp (Tập 1)",
+      "author": "Đinh Mặc",
+      "book_url": "https://gacsach.top/thoi-gian-tuoi-dep-tap-1_dinh-mac.full"
+    },
+    {
+      "book_id": 110,
+      "title": "Nhánh Hồng Thứ Ba",
+      "author": "Twentine",
+      "book_url": "https://gacsach.top/nhanh-hong-thu-ba_twentine.full"
+    },
+    {
+      "book_id": 108,
+      "title": "Kỹ Thuật Viên Bảo Trì Thiên Tài",
+      "author": "Lý Ôn Tửu",
+      "book_url": "https://gacsach.top/ky-thuat-vien-bao-tri-thien-tai_ly-on-tuu.full"
+    },
+    {
+      "book_id": 109,
+      "title": "Mạt Thế Trọng Sinh Lộ",
+      "author": "Mộc Diêu",
+      "book_url": "https://gacsach.top/mat-the-trong-sinh-lo_moc-dieu.full"
+    },
+    {
+      "book_id": 115,
+      "title": "Tuy hữu Đồng Nhân Mẫu, Bất Tẩu Đam Mỹ Lộ",
+      "author": "Long Cửu",
+      "book_url": "https://gacsach.top/tuy-huu-dong-nhan-mau-bat-tau-dam-my-lo_long-cuu.full"
+    },
+    {
+      "book_id": 144,
+      "title": "Nỗi buồn chiến tranh",
+      "author": "Bảo Ninh",
+      "book_url": "https://gacsach.top/noi-buon-chien-tranh_bao-ninh.full"
+    },
+    {
+      "book_id": 145,
+      "title": "Hòn Đất",
+      "author": "Anh Đức",
+      "book_url": "https://gacsach.top/hon-dat_anh-duc.full"
+    },
+    {
+      "book_id": 146,
+      "title": "Bên Bờ Thiên Mạc",
+      "author": "Hà Ân",
+      "book_url": "https://gacsach.top/ben-bo-thien-mac_ha-an.full"
+    },
+    {
+      "book_id": 187,
+      "title": "Hưởng Tang",
+      "author": "Thương Hải Nhất Thử",
+      "book_url": "https://gacsach.top/huong-tang_thuong-hai-nhat-thu.full"
+    },
+    {
+      "book_id": 394,
+      "title": "Thiên nhai minh nguyệt đao",
+      "author": "Cổ Long",
+      "book_url": "https://gacsach.top/thien-nhai-minh-nguyet-dao_co-long.full"
+    },
+    {
+      "book_id": 147,
+      "title": "Đại Việt Sử Ký Toàn Thư",
+      "author": "Phan Phu Tiên",
+      "book_url": "https://gacsach.top/dai-viet-su-ky-toan-thu"
+    },
+    {
+      "book_id": 148,
+      "title": "Các trận chiến làm thay đổi thế giới",
+      "author": "Nhiều tác giả",
+      "book_url": "https://gacsach.top/cac-tran-chien-lam-thay-doi-the-gioi_nhieu-tac-gia.full"
+    },
+    {
+      "book_id": 149,
+      "title": "Điệp viên hoàn hảo X6: Phạm Xuân Ẩn",
+      "author": "Larry Berman",
+      "book_url": "https://gacsach.top/diep-vien-hoan-hao_larry-berman.full"
+    },
+    {
+      "book_id": 150,
+      "title": "Lịch Sử Khẩn Hoang Miền Nam",
+      "author": "Sơn Nam",
+      "book_url": "https://gacsach.top/lich-su-khan-hoang-mien-nam_son-nam.full"
+    },
+    {
+      "book_id": 151,
+      "title": "Chặng Đường Mười Nghìn Ngày",
+      "author": "Hoàng Cầm",
+      "book_url": "https://gacsach.top/chang-duong-muoi-nghin-ngay_hoang-cam.full"
+    },
+    {
+      "book_id": 140,
+      "title": "Kí Ức Đông Dương",
+      "author": "Tô Hoài",
+      "book_url": "https://gacsach.top/ki-uc-dong-duong_to-hoai.full"
+    },
+    {
+      "book_id": 152,
+      "title": "Tưởng Giới Thạch - những bí mật về cuộc đời và gia thế -",
+      "author": "Nhiều tác giả",
+      "book_url": "https://gacsach.top/tuong-gioi-thach-nhung-bi-mat-ve-cuoc-doi-va-gia-the_nhieu-tac-gia.full"
+    },
+    {
+      "book_id": 134,
+      "title": "Không được đụng tới Việt Nam",
+      "author": "Nhiều tác giả",
+      "book_url": "https://gacsach.top/khong-duoc-dung-toi-viet-nam_nhieu-tac-gia.full"
+    },
+    {
+      "book_id": 153,
+      "title": "Hồ sơ mật Liên Xô",
+      "author": "Vũ Trọng Phụng",
+      "book_url": "https://gacsach.top/ho-so-mat-lien-xo_vu-trong-phung-van-toan.full"
+    },
+    {
+      "book_id": 154,
+      "title": "Tổng Hành Dinh Trong Mùa Xuân Toàn Thắng",
+      "author": "Võ Nguyên Giáp",
+      "book_url": "https://gacsach.top/tong-hanh-dinh-trong-mua-xuan-toan-thang_vo-nguyen-giap.full"
+    },
+    {
+      "book_id": 155,
+      "title": "Én liệng Truông Mây - Toàn tập",
+      "author": "Vũ Thanh",
+      "book_url": "https://gacsach.top/en-lieng-truong-may-toan-tap_vu-thanh.full"
+    },
+    {
+      "book_id": 156,
+      "title": "Hồ Quý Ly",
+      "author": "Nguyễn Xuân Khánh",
+      "book_url": "https://gacsach.top/ho-quy-ly_nguyen-xuan-khanh.full"
+    },
+    {
+      "book_id": 185,
+      "title": "Đừng Cười! Đây Là Game Kinh Dị",
+      "author": "Ngân Chúc Diên Vĩ",
+      "book_url": "https://gacsach.top/dung-cuoi-day-la-game-kinh-di_ngan-chuc-dien-vi.full"
+    },
+    {
+      "book_id": 268,
+      "title": "Trí Tuệ Do Thái",
+      "author": "Eran Katz",
+      "book_url": "https://gacsach.top/tri-tue-do-thai_eran-katz.full"
+    },
+    {
+      "book_id": 261,
+      "title": "Sơn Ca Vẫn Hót",
+      "author": "Kristin Hannah",
+      "book_url": "https://gacsach.top/son-ca-van-hot_kristin-hannah.full"
+    },
+    {
+      "book_id": 265,
+      "title": "Ngày Người Thương Một Người Thương Khác",
+      "author": "Trí",
+      "book_url": "https://gacsach.top/ngay-nguoi-thuong-mot-nguoi-thuong-khac_tri.full"
+    },
+    {
+      "book_id": 186,
+      "title": "Ba Đường Luân Hồi",
+      "author": "Vĩ Ngư",
+      "book_url": "https://gacsach.top/ba-duong-luan-hoi_vi-ngu.full"
+    },
+    {
+      "book_id": 173,
+      "title": "Bạn Trai Kỳ Lạ Của Tôi",
+      "author": "Kim Tử Tựu Thị Sao Phiếu",
+      "book_url": "https://gacsach.top/ban-trai-ky-la-cua-toi.full"
+    },
+    {
+      "book_id": 395,
+      "title": "1 Lít Nước Mắt - Nhật ký Aya Kitou",
+      "author": "Kitou Aya",
+      "book_url": "https://gacsach.top/1-lit-nuoc-mat-nhat-ky-aya-kitou_kitou-aya.full"
+    },
+    {
+      "book_id": 396,
+      "title": "Vườn cúc mùa thu - Full - Nhiều tác giả",
+      "author": "Nhiều tác giả",
+      "book_url": "https://gacsach.top/vuon-cuc-mua-thu-full-nhieu-tac-gia_nhieu-tac-gia.full"
+    },
+    {
+      "book_id": 183,
+      "title": "Quỷ Sai",
+      "author": "Thập Thất",
+      "book_url": "https://gacsach.top/quy-sai_thap-that.full"
+    },
+    {
+      "book_id": 178,
+      "title": "Minh Hôn Chính Thú: Bích Nữ",
+      "author": "Dạ Văn Sênh Ca",
+      "book_url": "https://gacsach.top/minh-hon-chinh-thu-bich-nu_da-van-senh-ca.full"
+    },
+    {
+      "book_id": 176,
+      "title": "Quỷ Xá",
+      "author": "Dạ Lai Phong Vũ Thanh",
+      "book_url": "https://gacsach.top/quy-xa_da-lai-phong-vu-thanh.full"
+    },
+    {
+      "book_id": 177,
+      "title": "Chồng Tôi Là Quỷ",
+      "author": "Kim Tử Tựu Thị Sao Phiếu",
+      "book_url": "https://gacsach.top/chong-toi-la-quy.full"
+    },
+    {
+      "book_id": 179,
+      "title": "Người Tìm Xác",
+      "author": "Lạc Lâm Lang",
+      "book_url": "https://gacsach.top/nguoi-tim-xac_lac-lam-lang.full"
+    },
+    {
+      "book_id": 167,
+      "title": "Tôi Ở Nhân Gian Livestream Đoán Mệnh",
+      "author": "Mặc Nhĩ Ngọc",
+      "book_url": "https://gacsach.top/toi-o-nhan-gian-livestream-doan-menh_mac-nhi-ngoc.full"
+    },
+    {
+      "book_id": 182,
+      "title": "Ếch",
+      "author": "Mạc Ngôn",
+      "book_url": "https://gacsach.top/ech_mac-ngon.full"
+    },
+    {
+      "book_id": 53,
+      "title": "Bí mật của Nicholas Flamel bất tử - Tập 1: Nhà Giả Kim",
+      "author": "Michael Scott",
+      "book_url": "https://gacsach.top/bi-mat-cua-nicholas-flamel-bat-tu-tap-1-nha-gia-kim_michael-scott.full"
+    },
+    {
+      "book_id": 166,
+      "title": "Chiếc Lồng Xương Thịt",
+      "author": "Vĩ Ngư",
+      "book_url": "https://gacsach.top/chiec-long-xuong-thit_vi-ngu.full"
+    },
+    {
+      "book_id": 175,
+      "title": "Chuông Gió",
+      "author": "Vĩ Ngư",
+      "book_url": "https://gacsach.top/chuong-gio_vi-ngu.full"
+    },
+    {
+      "book_id": 181,
+      "title": "Tarot Lá Bài Phán Quyết",
+      "author": "Chương Nhiễm Nhiễm",
+      "book_url": "https://gacsach.top/tarot-la-bai-phan-quyet_chuong-nhiem-nhiem.full"
+    },
+    {
+      "book_id": 327,
+      "title": "Tôi Là Thầy Tướng Số",
+      "author": "Dịch Chi",
+      "book_url": "https://gacsach.top/toi-la-thay-tuong-so_dich-chi.full"
+    },
+    {
+      "book_id": 192,
+      "title": "Thi Vương Cuối Cùng",
+      "author": "Tiểu Hỏa Long",
+      "book_url": "https://gacsach.top/thi-vuong-cuoi-cung_tieu-hoa-long.full"
+    },
+    {
+      "book_id": 184,
+      "title": "Phiêu Miểu - Quyển 7: Thần Đô",
+      "author": "Bạch Cơ Quán",
+      "book_url": "https://gacsach.top/phieu-mieu-quyen-7-than-do_bach-co-quan.full"
+    },
+    {
+      "book_id": 193,
+      "title": "Cô Dâu Thứ Bảy",
+      "author": "cungthienyet",
+      "book_url": "https://gacsach.top/co-dau-thu-bay_cungthienyet.full"
+    },
+    {
+      "book_id": 196,
+      "title": "Đặt Cược Trái Tim",
+      "author": "Phi Yên",
+      "book_url": "https://gacsach.top/dat-cuoc-trai-tim_phi-yen.full"
+    },
+    {
+      "book_id": 195,
+      "title": "Sau Khi Xuyên Thành Nữ Phụ Tự Nhiên Có Thêm Đứa Con Trai",
+      "author": "Đường Đường Đường Quả",
+      "book_url": "https://gacsach.top/sau-khi-xuyen-thanh-nu-phu-tu-nhien-co-them-dua-con-trai_duong-duong-duong-qua.full"
+    },
+    {
+      "book_id": 313,
+      "title": "Ai Gõ Cửa Lúc Nửa Đêm",
+      "author": "Khang Tĩnh Văn",
+      "book_url": "https://gacsach.top/ai-go-cua-luc-nua-dem_khang-tinh-van.full"
+    },
+    {
+      "book_id": 194,
+      "title": "Sau Khi Kết Hôn, Ngày Nào Phó Tiên Sinh Cũng Ghen",
+      "author": "Thâu Mã Đầu",
+      "book_url": "https://gacsach.top/sau-khi-ket-hon-ngay-nao-pho-tien-sinh-cung-ghen_thau-ma-dau.full"
+    },
+    {
+      "book_id": 308,
+      "title": "Freud Thân Yêu",
+      "author": "Cửu Nguyệt Hi",
+      "book_url": "https://gacsach.top/freud-than-yeu_cuu-nguyet-hi.full"
+    },
+    {
+      "book_id": 309,
+      "title": "Luật Sư Và Bị Cáo",
+      "author": "James Patterson",
+      "book_url": "https://gacsach.top/luat-su-va-bi-cao_james-patterson-peter-de-jonge.full"
+    },
+    {
+      "book_id": 310,
+      "title": "Cái Bóng Của Bí Mật",
+      "author": "Kim Jung Hyuk",
+      "book_url": "https://gacsach.top/cai-bong-cua-bi-mat_kim-jung-hyuk.full"
+    },
+    {
+      "book_id": 250,
+      "title": "Nàng Công Chúa Trong Thế Giới Vampire",
+      "author": "Alex",
+      "book_url": "https://gacsach.top/nang-cong-chua-trong-the-gioi-vampire_alex.full"
+    },
+    {
+      "book_id": 245,
+      "title": "Cho phản ứng: Tử Đằng + X => LOVE. Tìm X.",
+      "author": "Liêu Phong",
+      "book_url": "https://gacsach.top/cho-phan-ung-tu-dang-x-love-tim-x_lieu-phong.full"
+    },
+    {
+      "book_id": 257,
+      "title": "Vài lời ngỏ với bạn trẻ",
+      "author": "Nguyễn Hiến Lê",
+      "book_url": "https://gacsach.top/vai-loi-ngo-voi-ban-tre_nguyen-hien-le.full"
+    },
+    {
+      "book_id": 311,
+      "title": "Dư Tội",
+      "author": "Thường Thư Hân",
+      "book_url": "https://gacsach.top/du-toi_thuong-thu-han.full"
+    },
+    {
+      "book_id": 312,
+      "title": "Sự Trả Thù Hoàn Hảo",
+      "author": "Tử Kim Trần",
+      "book_url": "https://gacsach.top/su-tra-thu-hoan-hao_tu-kim-tran.full"
+    },
+    {
+      "book_id": 314,
+      "title": "Truy Tìm Ký Ức",
+      "author": "Đinh Mặc",
+      "book_url": "https://gacsach.top/truy-tim-ky-uc_dinh-mac.full"
+    },
+    {
+      "book_id": 206,
+      "title": "Chị Đại Xuyên Không!",
+      "author": "Trương Nhi",
+      "book_url": "https://gacsach.top/chi-dai-xuyen-khong_truong-nhi.full"
+    },
+    {
+      "book_id": 208,
+      "title": "Kết Hôn Nhanh Chóng - Ông Xã Yêu Hết Lòng",
+      "author": "Mộc Y Y",
+      "book_url": "https://gacsach.top/ket-hon-nhanh-chong-ong-xa-yeu-het-long_moc-y-y.full"
+    },
+    {
+      "book_id": 213,
+      "title": "Chờ em lớn nhé, được không?",
+      "author": "Diệp Lạc Vô Tâm",
+      "book_url": "https://gacsach.top/cho-em-lon-nhe-duoc-khong_diep-lac-vo-tam.full-0"
+    },
+    {
+      "book_id": 212,
+      "title": "Cực Sủng, Tiểu Phụ Điền Viên",
+      "author": "Mạch Hương Sắt",
+      "book_url": "https://gacsach.top/cuc-sung-tieu-phu-dien-vien_mach-huong-sat.full"
+    },
+    {
+      "book_id": 207,
+      "title": "Tạo Tác Thời Gian",
+      "author": "Nguyệt Hạ Điệp Ảnh",
+      "book_url": "https://gacsach.top/tao-tac-thoi-gian_nguyet-ha-diep-anh.full"
+    },
+    {
+      "book_id": 211,
+      "title": "Thành Thủy Tinh",
+      "author": "Thù Vỉ",
+      "book_url": "https://gacsach.top/thanh-thuy-tinh_thu-vi.full"
+    },
+    {
+      "book_id": 209,
+      "title": "Còn Ra Thể Thống Gì",
+      "author": "Thất Anh Tuấn",
+      "book_url": "https://gacsach.top/con-ra-the-thong-gi_that-anh-tuan.full"
+    },
+    {
+      "book_id": 210,
+      "title": "Cô Vợ Giả Ngốc Của Tổng Tài",
+      "author": "Thu Phương",
+      "book_url": "https://gacsach.top/co-vo-gia-ngoc-cua-tong-tai_thu-phuong.full"
+    },
+    {
+      "book_id": 315,
+      "title": "Archimedes Thân Yêu",
+      "author": "Cửu Nguyệt Hi",
+      "book_url": "https://gacsach.top/archimedes-than-yeu_cuu-nguyet-hi.full"
+    },
+    {
+      "book_id": 205,
+      "title": "Siêu Cấp Cưng Chiều",
+      "author": "Mạn Tây",
+      "book_url": "https://gacsach.top/sieu-cap-cung-chieu_man-tay.full"
+    },
+    {
+      "book_id": 204,
+      "title": "Ảnh Đế Trồng Một Gốc Lan Thành Tinh",
+      "author": "Hồ Châu Tử",
+      "book_url": "https://gacsach.top/anh-de-trong-mot-goc-lan-thanh-tinh_ho-chau-tu.full"
+    },
+    {
+      "book_id": 398,
+      "title": "Giá Như Em Đủ Can Đảm Để Yêu Anh",
+      "author": "Nguyễn Thị Kim Ngân",
+      "book_url": "https://gacsach.top/gia-nhu-em-du-can-dam-de-yeu-anh_nguyen-thi-kim-ngan.full"
+    },
+    {
+      "book_id": 399,
+      "title": "Ma thổi đèn - Tập 5: Mộ Hoàng Bì Tử",
+      "author": "Thiên Hạ Bá Xướng",
+      "book_url": "https://gacsach.top/ma-thoi-den-tap-5-mo-hoang-bi-tu_thien-ha-ba-xuong.full"
+    },
+    {
+      "book_id": 400,
+      "title": "Kafka bên bờ biển",
+      "author": "Haruki Murakami",
+      "book_url": "https://gacsach.top/kafka-ben-bo-bien_haruki-murakami.full"
+    },
+    {
+      "book_id": 401,
+      "title": "Death Note: Một ghi chép khác - Những án mạng Los Angeles BB",
+      "author": "Nisio Isin",
+      "book_url": "https://gacsach.top/death-note-mot-ghi-chep-khac-nhung-an-mang-los-angeles-bb_nisio-isin.full"
+    },
+    {
+      "book_id": 269,
+      "title": "Tâm Lý Học Xã Hội",
+      "author": "C. George Boeree",
+      "book_url": "https://gacsach.top/tam-ly-hoc-xa-hoi_c-george-boeree.full"
+    },
+    {
+      "book_id": 266,
+      "title": "Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản",
+      "author": "William B. Irvine",
+      "book_url": "https://gacsach.top/chu-nghia-khac-ky-phong-cach-song-ban-linh-va-binh-than_william-b-irvine.full"
+    },
+    {
+      "book_id": 267,
+      "title": "Bảo Bình và chuyện tình yêu",
+      "author": "Linda Goodman",
+      "book_url": "https://gacsach.top/bao-binh-va-chuyen-tinh-yeu_linda-goodman.full"
+    },
+    {
+      "book_id": 264,
+      "title": "Cây Cam Ngọt Của Tôi",
+      "author": "José Mauro de Vasconcelos",
+      "book_url": "https://gacsach.top/cay-cam-ngot-cua-toi_jose-mauro-de-vasconcelos.full"
+    },
+    {
+      "book_id": 270,
+      "title": "Dị bản",
+      "author": "Keng",
+      "book_url": "https://gacsach.top/di-ban_keng.full"
+    },
+    {
+      "book_id": 402,
+      "title": "Bản Chất Của Người",
+      "author": "Han Kang",
+      "book_url": "https://gacsach.top/ban-chat-cua-nguoi_han-kang.full"
+    },
+    {
+      "book_id": 403,
+      "title": "Một kiếp lênh đênh",
+      "author": "Trần Thu Trang",
+      "book_url": "https://gacsach.top/mot-kiep-lenh-denh_tran-thu-trang.full"
+    },
+    {
+      "book_id": 271,
+      "title": "Tâm Lý Học Hành Vi",
+      "author": "Khương Nguy",
+      "book_url": "https://gacsach.top/tam-ly-hoc-hanh-vi_khuong-nguy.full"
+    },
+    {
+      "book_id": 260,
+      "title": "Les - Vòng Tay Không Đàn Ông",
+      "author": "Bùi Anh Tấn",
+      "book_url": "https://gacsach.top/les-vong-tay-khong-dan-ong_bui-anh-tan.full"
+    },
+    {
+      "book_id": 272,
+      "title": "Bốn Thỏa Ước",
+      "author": "Janet Mills",
+      "book_url": "https://gacsach.top/bon-thoa-uoc_janet-mills-don-miguel-ruiz.full"
+    },
+    {
+      "book_id": 273,
+      "title": "Nghệ Thuật Đối Nhân Xử Thế",
+      "author": "Romeo Rodriguez Jr",
+      "book_url": "https://gacsach.top/nghe-thuat-doi-nhan-xu-the_romeo-rodriguez-jr.full"
+    },
+    {
+      "book_id": 274,
+      "title": "Tâm lý học đám đông",
+      "author": "Gustave Le Bon",
+      "book_url": "https://gacsach.top/tam-ly-hoc-dam-dong_gustave-le-bon.full"
+    },
+    {
+      "book_id": 317,
+      "title": "Những vụ kỳ án của Sherlock Holmes",
+      "author": "Sir Arthur Conan Doyle",
+      "book_url": "https://gacsach.top/nhung-vu-ky-an-cua-sherlock-holmes_sir-arthur-conan-doyle.full"
+    },
+    {
+      "book_id": 316,
+      "title": "Tết Ở Làng Địa Ngục",
+      "author": "Tết Ở Làng Địa Ngục",
+      "book_url": "https://gacsach.top/tet-o-lang-dia-nguc_tet-o-lang-dia-nguc.full"
+    },
+    {
+      "book_id": 390,
+      "title": "Pachinko",
+      "author": "Min Jin Lee",
+      "book_url": "https://gacsach.top/pachinko_min-jin-lee.full"
+    },
+    {
+      "book_id": 78,
+      "title": "Atomic Habits Thay đổi tí hon hiệu quả bất ngờ",
+      "author": "James Clear",
+      "book_url": "https://gacsach.top/atomic-habits-thay-doi-ti-hon-hieu-qua-bat-ngo_james-clear.full"
+    },
+    {
+      "book_id": 299,
+      "title": "Cảnh sát đặc nhiệm Texas",
+      "author": "Diana Palmer",
+      "book_url": "https://gacsach.top/canh-sat-dac-nhiem-texas_diana-palmer.full"
+    },
+    {
+      "book_id": 224,
+      "title": "Nữ Ngỗ Tác Họa Cốt",
+      "author": "Li Đa Ô",
+      "book_url": "https://gacsach.top/nu-ngo-tac-hoa-cot_li-da-o.full"
+    },
+    {
+      "book_id": 393,
+      "title": "Hồi Ức Của Một Geisha - Đời Kỹ Nữ",
+      "author": "Arthur Golden",
+      "book_url": "https://gacsach.top/hoi-uc-cua-mot-geisha-doi-ky-nu_arthur-golden.full"
+    },
+    {
+      "book_id": 329,
+      "title": "Từ Yên Bái Đến Các Ngục Thất: Hỏa Lò, Côn Nôn, Guy An",
+      "author": "Hoàng Văn Đào",
+      "book_url": "https://gacsach.top/tu-yen-bai-den-cac-nguc-that-hoa-lo-con-non-guy-an_hoang-van-dao.full"
+    },
+    {
+      "book_id": 326,
+      "title": "Thiện Ác và Smartphone",
+      "author": "Đặng Hoàng Giang",
+      "book_url": "https://gacsach.top/thien-ac-va-smartphone_dang-hoang-giang.full"
+    },
+    {
+      "book_id": 325,
+      "title": "21 Bài Học Cho Thế Kỷ 21",
+      "author": "Yuval Noah Harari",
+      "book_url": "https://gacsach.top/21-bai-hoc-cho-the-ky-21_yuval-noah-harari.full"
+    },
+    {
+      "book_id": 330,
+      "title": "Giai Thoại Văn Chương Việt Nam",
+      "author": "Thái Bạch",
+      "book_url": "https://gacsach.top/giai-thoai-van-chuong-viet-nam_thai-bach.full"
+    },
+    {
+      "book_id": 324,
+      "title": "Nhà Tài Phiệt Cuối Cùng",
+      "author": "F. Scott Fitzgerald",
+      "book_url": "https://gacsach.top/nha-tai-phiet-cuoi-cung_f-scott-fitzgerald.full"
+    },
+    {
+      "book_id": 411,
+      "title": "Cây Chuối Non Đi Giày Xanh",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/cay-chuoi-non-di-giay-xanh_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 307,
+      "title": "Tâm Ma",
+      "author": "Jim Maryal",
+      "book_url": "https://gacsach.top/tam-ma_jim-maryal.full"
+    },
+    {
+      "book_id": 3,
+      "title": "Bàn về Tự Do",
+      "author": "John Stuart Mill",
+      "book_url": "https://gacsach.top/ban-ve-tu-do_john-stuart-mill.full"
+    },
+    {
+      "book_id": 334,
+      "title": "Mật mã Tây Tạng - Tập 01",
+      "author": "Hà Mã",
+      "book_url": "https://gacsach.top/mat-ma-tay-tang-tap-01_ha-ma.full"
+    },
+    {
+      "book_id": 336,
+      "title": "Hành trình về phương Đông",
+      "author": "Dr Blair T. Spalding",
+      "book_url": "https://gacsach.top/hanh-trinh-ve-phuong-dong_dr-blair-t-spalding.full"
+    },
+    {
+      "book_id": 337,
+      "title": "Các Học Thuyết Tâm Lý Nhân Cách",
+      "author": "Nguyễn Thơ Sinh",
+      "book_url": "https://gacsach.top/cac-hoc-thuyet-tam-ly-nhan-cach_nguyen-tho-sinh.full"
+    },
+    {
+      "book_id": 338,
+      "title": "Nhị thập tứ hiếu",
+      "author": "Lý Văn Phức",
+      "book_url": "https://gacsach.top/nhi-thap-tu-hieu_ly-van-phuc.full"
+    },
+    {
+      "book_id": 339,
+      "title": "Đi Xuyên Hà Nội",
+      "author": "Nguyễn Ngọc Tiến",
+      "book_url": "https://gacsach.top/di-xuyen-ha-noi_nguyen-ngoc-tien.full"
+    },
+    {
+      "book_id": 414,
+      "title": "Kính Vạn Hoa toàn tập",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/kinh-van-hoa-toan-tap_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 415,
+      "title": "Ngày xưa có một chuyện tình",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/ngay-xua-co-mot-chuyen-tinh_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 416,
+      "title": "Con Chim Xanh Biếc Bay Về",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/con-chim-xanh-biec-bay-ve_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 412,
+      "title": "Lê hoa trong mưa",
+      "author": "Mila",
+      "book_url": "https://gacsach.top/le-hoa-trong-mua_mila.full"
+    },
+    {
+      "book_id": 332,
+      "title": "Thi Nhân Việt Nam",
+      "author": "Hoài Thanh",
+      "book_url": "https://gacsach.top/doc-online/thi-nhan-viet-nam-hoai-thanh-hoai-chan.html"
+    },
+    {
+      "book_id": 333,
+      "title": "Thế Giới Nghịch",
+      "author": "Michael Crichton",
+      "book_url": "https://gacsach.top/the-gioi-nghich_michael-crichton.full"
+    },
+    {
+      "book_id": 335,
+      "title": "Hạt giống tâm hồn (Tập 5)",
+      "author": "Nhiều tác giả",
+      "book_url": "https://gacsach.top/doc-sach-truc-tuyen/74861/hat-giong-tam-hon-tap-5-full-nhieu-tac-gia.html"
+    },
+    {
+      "book_id": 161,
+      "title": "Hồi Ký Về Thảm Hoạ Everest: Tan Biến",
+      "author": "Jon Krakauer",
+      "book_url": "https://gacsach.top/hoi-ky-ve-tham-hoa-everest-tan-bien_jon-krakauer.full"
+    },
+    {
+      "book_id": 345,
+      "title": "Truyện Tự Truyện Của Một Yogi",
+      "author": "Paramahansa Yogananda",
+      "book_url": "https://gacsach.top/truyen-tu-truyen-cua-mot-yogi_paramahansa-yogananda.full"
+    },
+    {
+      "book_id": 359,
+      "title": "Nỗi lòng (Kokoro)",
+      "author": "Natsume Soseki",
+      "book_url": "https://gacsach.top/noi-long-kokoro_natsume-soseki.full"
+    },
+    {
+      "book_id": 421,
+      "title": "Tuổi thơ dữ dội (Tập 2)",
+      "author": "Phùng Quán",
+      "book_url": "https://gacsach.top/tuoi-tho-du-doi-tap-2_phung-quan.full"
+    },
+    {
+      "book_id": 418,
+      "title": "Hồi Ức Chiến Trường K (Lê Hiếu)",
+      "author": "Lê Hiếu",
+      "book_url": "https://gacsach.top/hoi-uc-chien-truong-k-le-hieu_le-hieu.full"
+    },
+    {
+      "book_id": 423,
+      "title": "Bong bóng lên trời",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/bong-bong-len-troi_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 352,
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "book_url": "https://gacsach.top/robinson-crusoe_daniel-defoe.full"
+    },
+    {
+      "book_id": 361,
+      "title": "Suối Nguồn (The Fountainhead)",
+      "author": "Ayn Rand",
+      "book_url": "https://gacsach.top/suoi-nguon-the-fountainhead_ayn-rand.full"
+    },
+    {
+      "book_id": 420,
+      "title": "Kính vạn hoa - Tập 02: Những con gấu bông",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/kinh-van-hoa-tap-02-nhung-con-gau-bong_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 419,
+      "title": "Mắt biếc",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/mat-biec.full"
+    },
+    {
+      "book_id": 422,
+      "title": "May Mắn Gặp Nàng",
+      "author": "Giang Uyển Quỳnh",
+      "book_url": "https://gacsach.top/may-man-gap-nang.full"
+    },
+    {
+      "book_id": 353,
+      "title": "Tiếng Gọi Nơi Hoang Dã",
+      "author": "Jack London",
+      "book_url": "https://gacsach.top/tieng-goi-noi-hoang-da_jack-london.full"
+    },
+    {
+      "book_id": 354,
+      "title": "Đất rừng phương Nam",
+      "author": "Đoàn Giỏi",
+      "book_url": "https://gacsach.top/dat-rung-phuong-nam_doan-gioi.full"
+    },
+    {
+      "book_id": 355,
+      "title": "Búp sen xanh",
+      "author": "Sơn Tùng",
+      "book_url": "https://gacsach.top/bup-sen-xanh_son-tung.full"
+    },
+    {
+      "book_id": 357,
+      "title": "Chiến Tranh Và Hòa Bình - Quyển 1",
+      "author": "Lev Tolstoy",
+      "book_url": "https://gacsach.top/chien-tranh-va-hoa-binh-quyen-1_lev-tolstoy.full"
+    },
+    {
+      "book_id": 356,
+      "title": "Thủy Hử",
+      "author": "Thi Nại Am",
+      "book_url": "https://gacsach.top/thuy-hu_thi-nai-am.full"
+    },
+    {
+      "book_id": 358,
+      "title": "Những người khốn khổ",
+      "author": "Victor Hugo",
+      "book_url": "https://gacsach.top/nhung-nguoi-khon-kho_victor-hugo.full"
+    },
+    {
+      "book_id": 54,
+      "title": "Chúa Tể Những Chiếc Nhẫn toàn tập",
+      "author": "J.R.R. Tolkien",
+      "book_url": "https://gacsach.top/chua-te-nhung-chiec-nhan-toan-tap_jrr-tolkien.full"
+    },
+    {
+      "book_id": 360,
+      "title": "Không Gia Đình",
+      "author": "Hector Malot",
+      "book_url": "https://gacsach.top/khong-gia-dinh_hector-malot.full"
+    },
+    {
+      "book_id": 370,
+      "title": "Chiến Tranh Và Hòa Bình - Quyển 2",
+      "author": "Lev Tolstoy",
+      "book_url": "https://gacsach.top/chien-tranh-va-hoa-binh-quyen-2_lev-tolstoy.full"
+    },
+    {
+      "book_id": 425,
+      "title": "Kính vạn hoa - Tập 06: Người bạn lạ lùng",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/kinh-van-hoa-tap-06-nguoi-ban-la-lung_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 424,
+      "title": "Hạ đỏ",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/ha-do_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 378,
+      "title": "Buồn nôn",
+      "author": "Jean Paul Sartre",
+      "book_url": "https://gacsach.top/buon-non_jean-paul-sartre.full"
+    },
+    {
+      "book_id": 371,
+      "title": "50 Sắc Thái - Fifty Shades of Grey",
+      "author": "E. L. James",
+      "book_url": "https://gacsach.top/50-sac-thai-fifty-shades-of-grey_e-l-james.full"
+    },
+    {
+      "book_id": 377,
+      "title": "Công Chúa Chăn Ngỗng - Câu Chuyện Về Vùng Đất Bayern",
+      "author": "Shannon Hale",
+      "book_url": "https://gacsach.top/cong-chua-chan-ngong-cau-chuyen-ve-vung-dat-bayern_shannon-hale.full"
+    },
+    {
+      "book_id": 373,
+      "title": "Vật chủ",
+      "author": "Stephenie Meyer",
+      "book_url": "https://gacsach.top/vat-chu_stephenie-meyer.full"
+    },
+    {
+      "book_id": 417,
+      "title": "Kính vạn hoa - Tập 01: Nhà Ảo Thuật",
+      "author": "Nguyễn Nhật Ánh",
+      "book_url": "https://gacsach.top/kinh-van-hoa-tap-01-nha-ao-thuat_nguyen-nhat-anh.full"
+    },
+    {
+      "book_id": 445,
+      "title": "Ai Dám Nói Xấu Sư Huynh",
+      "author": "Cổ Ngọc Văn Hương",
+      "book_url": "https://gacsach.top/ai-dam-noi-xau-su-huynh_co-ngoc-van-huong.full"
+    },
+    {
+      "book_id": 446,
+      "title": "Dược Thần",
+      "author": "Ám Ma Sư",
+      "book_url": "https://gacsach.top/duoc-than_am-ma-su.full"
+    },
+    {
+      "book_id": 455,
+      "title": "Vô Tận Cường Hóa",
+      "author": "Trip",
+      "book_url": "https://gacsach.top/vo-tan-cuong-hoa_trip.full"
+    },
+    {
+      "book_id": 438,
+      "title": "Dị Thế Chi Thành Thần Lộ",
+      "author": "Quyết Tuyệt",
+      "book_url": "https://gacsach.top/di-the-chi-thanh-than-lo_quyet-tuyet.full"
+    },
+    {
+      "book_id": 432,
+      "title": "Ta Dựa Vào Y Thuật Tung Hoành Tu Tiên Giới",
+      "author": "Bạc Hà Miêu",
+      "book_url": "https://gacsach.top/ta-dua-vao-y-thuat-tung-hoanh-tu-tien-gioi_bac-ha-mieu.full"
+    },
+    {
+      "book_id": 440,
+      "title": "Đạo Quân",
+      "author": "Dược Thiên Sầu",
+      "book_url": "https://gacsach.top/dao-quan_duoc-thien-sau.full"
+    },
+    {
+      "book_id": 442,
+      "title": "Loạn Chiến Giang Hồ",
+      "author": "M MT",
+      "book_url": "https://gacsach.top/loan-chien-giang-ho_m-mt.full"
+    },
+    {
+      "book_id": 439,
+      "title": "Tàn Bào",
+      "author": "Phong Ngự Cửu Thu",
+      "book_url": "https://gacsach.top/tan-bao_phong-ngu-cuu-thu.full"
+    },
+    {
+      "book_id": 443,
+      "title": "Cầu Ma",
+      "author": "Nhĩ Căn",
+      "book_url": "https://gacsach.top/cau-ma_nhi-can.full"
+    },
+    {
+      "book_id": 441,
+      "title": "Thiên Tài Đọa Lạc",
+      "author": "Lý Nhàn Ngư",
+      "book_url": "https://gacsach.top/thien-tai-doa-lac_ly-nhan-ngu.full"
+    },
+    {
+      "book_id": 452,
+      "title": "Bạch Hổ Tinh Quân",
+      "author": "Ưu Đàm Hoa",
+      "book_url": "https://gacsach.top/bach-ho-tinh-quan_uu-dam-hoa.full"
+    },
+    {
+      "book_id": 454,
+      "title": "Chiến Thần Bất Bại",
+      "author": "Phương Tưởng",
+      "book_url": "https://gacsach.top/chien-than-bat-bai_phuong-tuong.full"
+    },
+    {
+      "book_id": 444,
+      "title": "Đế Chế Đại Việt",
+      "author": "Hàm Ngư",
+      "book_url": "https://gacsach.top/de-che-dai-viet_ham-ngu.full"
+    },
+    {
+      "book_id": 451,
+      "title": "Cơ Giới Khách",
+      "author": "Trương Lang Vương",
+      "book_url": "https://gacsach.top/co-gioi-khach_truong-lang-vuong.full"
+    },
+    {
+      "book_id": 449,
+      "title": "Hảo Nữ Thập Bát Giá",
+      "author": "Hoa Lạc Trùng Lai",
+      "book_url": "https://gacsach.top/hao-nu-thap-bat-gia_hoa-lac-trung-lai.full"
+    },
+    {
+      "book_id": 448,
+      "title": "Cận Chiến Pháp Sư",
+      "author": "Hồ Điệp Lam",
+      "book_url": "https://gacsach.top/can-chien-phap-su_ho-diep-lam.full"
+    },
+    {
+      "book_id": 450,
+      "title": "Bại Nhứ Tàng Kim Ngọc",
+      "author": "Tô Du Bính",
+      "book_url": "https://gacsach.top/bai-nhu-tang-kim-ngoc_to-du-binh.full"
+    },
+    {
+      "book_id": 447,
+      "title": "Thôn Phệ Tinh Không",
+      "author": "Ngã Cật Tây Hồng Thị",
+      "book_url": "https://gacsach.top/thon-phe-tinh-khong_nga-cat-tay-hong-thi.full"
+    },
+    {
+      "book_id": 453,
+      "title": "Cải Thiên Nghịch Đạo",
+      "author": "KK Cố Hương",
+      "book_url": "https://gacsach.top/cai-thien-nghich-dao_kk-co-huong.full"
+    },
+    {
+      "book_id": 465,
+      "title": "[Vô Xá Hệ Liệt] Tu La Quân Tử",
+      "author": "Vô Thố Thương Hoàng",
+      "book_url": "https://gacsach.top/vo-xa-he-liet-tu-la-quan-tu_vo-tho-thuong-hoang.full"
+    },
+    {
+      "book_id": 466,
+      "title": "Đấu La Đại Lục",
+      "author": "Đường Gia Tam Thiếu",
+      "book_url": "https://gacsach.top/dau-la-dai-luc_duong-gia-tam-thieu.full"
+    },
+    {
+      "book_id": 14,
+      "title": "Dầu Mỏ, Tiền Bạc Và Quyền Lực",
+      "author": "Daniel Yergin",
+      "book_url": "https://gacsach.top/dau-mo-tien-bac-va-quyen-luc_daniel-yergin.full"
+    },
+    {
+      "book_id": 35,
+      "title": "Harry Potter toàn tập",
+      "author": "J. K. Rowling",
+      "book_url": "https://gacsach.top/harry-potter-toan-tap_j-k-rowling.full"
+    },
+    {
+      "book_id": 101,
+      "title": "Người Đẹp Ốm Yếu Được Nâng Niu Trong Tim",
+      "author": "Nam Thư",
+      "book_url": "https://gacsach.top/nguoi-dep-om-yeu-duoc-nang-niu-trong-tim_nam-thu.full"
+    },
+    {
+      "book_id": 82,
+      "title": "Bạn Đắt Giá Bao Nhiêu?",
+      "author": "Vãn Tình",
+      "book_url": "https://gacsach.top/ban-dat-gia-bao-nhieu_van-tinh.full"
+    }
+  ],
+  "invalid_urls": [
+    {
+      "book_id": 128,
+      "title": "Bổn Tướng Bị Câm",
+      "author": "Phương Tiểu Hỉ",
+      "book_url": "https://gacsach.top/bon-tuong-bi-cam_phuong-tieu-hi.full",
+      "image_url": "https://gacsach.top/sites/default/files/styles/book150x200/public/hbmjdse.jpg",
+      "reason": "HTTP status code: 404"
+    },
+    {
+      "book_id": 320,
+      "title": "Truy Sát",
+      "author": "M MT",
+      "book_url": "https://gacsach.top/truy-sat_m-mt.full",
+      "image_url": "https://gacsach.top/sites/default/files/styles/book150x200/public/ts2_0.jpg",
+      "reason": "HTTP status code: 404"
+    },
+    {
+      "book_id": 461,
+      "title": "Là Khói Hay Là Sương",
+      "author": "Nguyễn Dương",
+      "book_url": "https://gacsach.top/la-khoi-hay-la-suong_nguyen-duong.full",
+      "image_url": "https://gacsach.top/sites/default/files/styles/book150x200/public/664a6b3a-1517-4dbe-b335-1988022c4ad4.png",
+      "reason": "HTTP status code: 404"
+    }
+  ]
+}
