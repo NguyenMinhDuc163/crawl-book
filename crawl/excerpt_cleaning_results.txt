@@ -1,0 +1,12 @@
+KẾT QUẢ KIỂM TRA VÀ LÀM SẠCH EXCERPT
+=====================================
+
+
+
+THỐNG KÊ KẾT QUẢ
+================
+Tổng số sách kiểm tra: 234
+Số sách cần làm sạch: 0
+Số sách đã làm sạch: 0
+Số sách không cần thay đổi: 234
+Số sách gặp lỗi: 0
