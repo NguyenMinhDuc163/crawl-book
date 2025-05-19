@@ -1,0 +1,544 @@
+{
+  "title": "Phép Thuật Nguyên Thủy",
+  "author": "giapga01",
+  "category": "Sách TeenKỳ Ảo",
+  "status": "Đang ra",
+  "coverImage": "https://gacsach.top/sites/default/files/styles/book310/public/375832961-256-k735053.jpg",
+  "description": "",
+  "rating": "8",
+  "votes": "1",
+  "views": "62312",
+  "totalChapters": 106,
+  "chapters": [
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 001",
+      "url": "https://gacsach.top/doc-online/31522/phep-thuat-nguyen-thuy-chuong-001.html",
+      "index": 1
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 002",
+      "url": "https://gacsach.top/doc-online/31523/phep-thuat-nguyen-thuy-chuong-002.html",
+      "index": 2
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 003 - 004",
+      "url": "https://gacsach.top/doc-online/31525/phep-thuat-nguyen-thuy-chuong-003-004.html",
+      "index": 3
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 005 - 006",
+      "url": "https://gacsach.top/doc-online/31526/phep-thuat-nguyen-thuy-chuong-005-006.html",
+      "index": 4
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 007 - 008",
+      "url": "https://gacsach.top/doc-online/31527/phep-thuat-nguyen-thuy-chuong-007-008.html",
+      "index": 5
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 009 - 010",
+      "url": "https://gacsach.top/doc-online/31528/phep-thuat-nguyen-thuy-chuong-009-010.html",
+      "index": 6
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 011 - 012",
+      "url": "https://gacsach.top/doc-online/31530/phep-thuat-nguyen-thuy-chuong-011-012.html",
+      "index": 7
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 013",
+      "url": "https://gacsach.top/doc-online/31531/phep-thuat-nguyen-thuy-chuong-013.html",
+      "index": 8
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 014 - 015",
+      "url": "https://gacsach.top/doc-online/31532/phep-thuat-nguyen-thuy-chuong-014-015.html",
+      "index": 9
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 016 - 017",
+      "url": "https://gacsach.top/doc-online/31533/phep-thuat-nguyen-thuy-chuong-016-017.html",
+      "index": 10
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 018 - 019",
+      "url": "https://gacsach.top/doc-online/31536/phep-thuat-nguyen-thuy-chuong-018-019.html",
+      "index": 11
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 020 - 021",
+      "url": "https://gacsach.top/doc-online/31538/phep-thuat-nguyen-thuy-chuong-020-021.html",
+      "index": 12
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 022",
+      "url": "https://gacsach.top/doc-online/31539/phep-thuat-nguyen-thuy-chuong-022.html",
+      "index": 13
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 023",
+      "url": "https://gacsach.top/doc-online/31543/phep-thuat-nguyen-thuy-chuong-023.html",
+      "index": 14
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 024 - 025",
+      "url": "https://gacsach.top/doc-online/31544/phep-thuat-nguyen-thuy-chuong-024-025.html",
+      "index": 15
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 026 - 027",
+      "url": "https://gacsach.top/doc-online/31545/phep-thuat-nguyen-thuy-chuong-026-027.html",
+      "index": 16
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 028",
+      "url": "https://gacsach.top/doc-online/31546/phep-thuat-nguyen-thuy-chuong-028.html",
+      "index": 17
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 029",
+      "url": "https://gacsach.top/doc-online/31547/phep-thuat-nguyen-thuy-chuong-029.html",
+      "index": 18
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 030",
+      "url": "https://gacsach.top/doc-online/31548/phep-thuat-nguyen-thuy-chuong-030.html",
+      "index": 19
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 031",
+      "url": "https://gacsach.top/doc-online/31549/phep-thuat-nguyen-thuy-chuong-031.html",
+      "index": 20
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 032",
+      "url": "https://gacsach.top/doc-online/31550/phep-thuat-nguyen-thuy-chuong-032.html",
+      "index": 21
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 033",
+      "url": "https://gacsach.top/doc-online/31551/phep-thuat-nguyen-thuy-chuong-033.html",
+      "index": 22
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 034",
+      "url": "https://gacsach.top/doc-online/31552/phep-thuat-nguyen-thuy-chuong-034.html",
+      "index": 23
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 035 - 036",
+      "url": "https://gacsach.top/doc-online/31553/phep-thuat-nguyen-thuy-chuong-035-036.html",
+      "index": 24
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 037",
+      "url": "https://gacsach.top/doc-online/31647/phep-thuat-nguyen-thuy-chuong-037.html",
+      "index": 25
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 038 - 039",
+      "url": "https://gacsach.top/doc-online/31645/phep-thuat-nguyen-thuy-chuong-038-039.html",
+      "index": 26
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 040 - 041",
+      "url": "https://gacsach.top/doc-online/31655/phep-thuat-nguyen-thuy-chuong-040-041.html",
+      "index": 27
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 042",
+      "url": "https://gacsach.top/doc-online/31656/phep-thuat-nguyen-thuy-chuong-042.html",
+      "index": 28
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 043",
+      "url": "https://gacsach.top/doc-online/31671/phep-thuat-nguyen-thuy-chuong-043.html",
+      "index": 29
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 044 - 045",
+      "url": "https://gacsach.top/doc-online/31680/phep-thuat-nguyen-thuy-chuong-044-045.html",
+      "index": 30
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 046 - 047",
+      "url": "https://gacsach.top/doc-online/31721/phep-thuat-nguyen-thuy-chuong-046-047.html",
+      "index": 31
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 048 - 049",
+      "url": "https://gacsach.top/doc-online/31724/phep-thuat-nguyen-thuy-chuong-048-049.html",
+      "index": 32
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 050 - 051",
+      "url": "https://gacsach.top/doc-online/31725/phep-thuat-nguyen-thuy-chuong-050-051.html",
+      "index": 33
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 052 - 053",
+      "url": "https://gacsach.top/doc-online/31726/phep-thuat-nguyen-thuy-chuong-052-053.html",
+      "index": 34
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 054 - 055",
+      "url": "https://gacsach.top/doc-online/31731/phep-thuat-nguyen-thuy-chuong-054-055.html",
+      "index": 35
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 056 - 057",
+      "url": "https://gacsach.top/doc-online/31735/phep-thuat-nguyen-thuy-chuong-056-057.html",
+      "index": 36
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 058 - 059",
+      "url": "https://gacsach.top/doc-online/31737/phep-thuat-nguyen-thuy-chuong-058-059.html",
+      "index": 37
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 060",
+      "url": "https://gacsach.top/doc-online/31739/phep-thuat-nguyen-thuy-chuong-060.html",
+      "index": 38
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 061 - 062",
+      "url": "https://gacsach.top/doc-online/31950/phep-thuat-nguyen-thuy-chuong-061-062.html",
+      "index": 39
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 063",
+      "url": "https://gacsach.top/doc-online/31954/phep-thuat-nguyen-thuy-chuong-063.html",
+      "index": 40
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 064 - 065",
+      "url": "https://gacsach.top/doc-online/31955/phep-thuat-nguyen-thuy-chuong-064-065.html",
+      "index": 41
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 066 - 067",
+      "url": "https://gacsach.top/doc-online/31956/phep-thuat-nguyen-thuy-chuong-066-067.html",
+      "index": 42
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 068 - 069",
+      "url": "https://gacsach.top/doc-online/31957/phep-thuat-nguyen-thuy-chuong-068-069.html",
+      "index": 43
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 070 - 071",
+      "url": "https://gacsach.top/doc-online/31958/phep-thuat-nguyen-thuy-chuong-070-071.html",
+      "index": 44
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 072 - 073",
+      "url": "https://gacsach.top/doc-online/31959/phep-thuat-nguyen-thuy-chuong-072-073.html",
+      "index": 45
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 074 - 075",
+      "url": "https://gacsach.top/doc-online/31961/phep-thuat-nguyen-thuy-chuong-074-075.html",
+      "index": 46
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 076 - 077",
+      "url": "https://gacsach.top/doc-online/31962/phep-thuat-nguyen-thuy-chuong-076-077.html",
+      "index": 47
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 078 phần 1",
+      "url": "https://gacsach.top/doc-online/31963/phep-thuat-nguyen-thuy-chuong-078-phan-1.html",
+      "index": 48
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 078 phần 2",
+      "url": "https://gacsach.top/doc-online/31964/phep-thuat-nguyen-thuy-chuong-078-phan-2.html",
+      "index": 49
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 079 - 080",
+      "url": "https://gacsach.top/doc-online/31965/phep-thuat-nguyen-thuy-chuong-079-080.html",
+      "index": 50
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 081 - 082",
+      "url": "https://gacsach.top/doc-online/31966/phep-thuat-nguyen-thuy-chuong-081-082.html",
+      "index": 51
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 083 - 084",
+      "url": "https://gacsach.top/doc-online/31968/phep-thuat-nguyen-thuy-chuong-083-084.html",
+      "index": 52
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 085 - 086",
+      "url": "https://gacsach.top/doc-online/31969/phep-thuat-nguyen-thuy-chuong-085-086.html",
+      "index": 53
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 087",
+      "url": "https://gacsach.top/doc-online/31970/phep-thuat-nguyen-thuy-chuong-087.html",
+      "index": 54
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 088",
+      "url": "https://gacsach.top/doc-online/31973/phep-thuat-nguyen-thuy-chuong-088.html",
+      "index": 55
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 089",
+      "url": "https://gacsach.top/doc-online/31974/phep-thuat-nguyen-thuy-chuong-089.html",
+      "index": 56
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 090",
+      "url": "https://gacsach.top/doc-online/31975/phep-thuat-nguyen-thuy-chuong-090.html",
+      "index": 57
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 091 - 092",
+      "url": "https://gacsach.top/doc-online/31976/phep-thuat-nguyen-thuy-chuong-091-092.html",
+      "index": 58
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 093",
+      "url": "https://gacsach.top/doc-online/31977/phep-thuat-nguyen-thuy-chuong-093.html",
+      "index": 59
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 094 - 095",
+      "url": "https://gacsach.top/doc-online/31978/phep-thuat-nguyen-thuy-chuong-094-095.html",
+      "index": 60
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 096",
+      "url": "https://gacsach.top/doc-online/31979/phep-thuat-nguyen-thuy-chuong-096.html",
+      "index": 61
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 097",
+      "url": "https://gacsach.top/doc-online/31980/phep-thuat-nguyen-thuy-chuong-097.html",
+      "index": 62
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 098 - 099",
+      "url": "https://gacsach.top/doc-online/31981/phep-thuat-nguyen-thuy-chuong-098-099.html",
+      "index": 63
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 100 - 101",
+      "url": "https://gacsach.top/doc-online/31982/phep-thuat-nguyen-thuy-chuong-100-101.html",
+      "index": 64
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 102",
+      "url": "https://gacsach.top/doc-online/31983/phep-thuat-nguyen-thuy-chuong-102.html",
+      "index": 65
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 103 - 104",
+      "url": "https://gacsach.top/doc-online/31984/phep-thuat-nguyen-thuy-chuong-103-104.html",
+      "index": 66
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 105",
+      "url": "https://gacsach.top/doc-online/31985/phep-thuat-nguyen-thuy-chuong-105.html",
+      "index": 67
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 106",
+      "url": "https://gacsach.top/doc-online/31986/phep-thuat-nguyen-thuy-chuong-106.html",
+      "index": 68
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 107",
+      "url": "https://gacsach.top/doc-online/31987/phep-thuat-nguyen-thuy-chuong-107.html",
+      "index": 69
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 108",
+      "url": "https://gacsach.top/doc-online/31988/phep-thuat-nguyen-thuy-chuong-108.html",
+      "index": 70
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 109",
+      "url": "https://gacsach.top/doc-online/31989/phep-thuat-nguyen-thuy-chuong-109.html",
+      "index": 71
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 110",
+      "url": "https://gacsach.top/doc-online/31990/phep-thuat-nguyen-thuy-chuong-110.html",
+      "index": 72
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 111 - 112",
+      "url": "https://gacsach.top/doc-online/31991/phep-thuat-nguyen-thuy-chuong-111-112.html",
+      "index": 73
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 113",
+      "url": "https://gacsach.top/doc-online/31992/phep-thuat-nguyen-thuy-chuong-113.html",
+      "index": 74
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 114",
+      "url": "https://gacsach.top/doc-online/31993/phep-thuat-nguyen-thuy-chuong-114.html",
+      "index": 75
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 115",
+      "url": "https://gacsach.top/doc-online/31994/phep-thuat-nguyen-thuy-chuong-115.html",
+      "index": 76
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 116",
+      "url": "https://gacsach.top/doc-online/31995/phep-thuat-nguyen-thuy-chuong-116.html",
+      "index": 77
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 117",
+      "url": "https://gacsach.top/doc-online/31996/phep-thuat-nguyen-thuy-chuong-117.html",
+      "index": 78
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 118",
+      "url": "https://gacsach.top/doc-online/31997/phep-thuat-nguyen-thuy-chuong-118.html",
+      "index": 79
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 119 phần 1",
+      "url": "https://gacsach.top/doc-online/31998/phep-thuat-nguyen-thuy-chuong-119-phan-1.html",
+      "index": 80
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 119 phần 2",
+      "url": "https://gacsach.top/doc-online/31999/phep-thuat-nguyen-thuy-chuong-119-phan-2.html",
+      "index": 81
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 120 phần 1",
+      "url": "https://gacsach.top/doc-online/32000/phep-thuat-nguyen-thuy-chuong-120-phan-1.html",
+      "index": 82
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 120 phần 2",
+      "url": "https://gacsach.top/doc-online/32001/phep-thuat-nguyen-thuy-chuong-120-phan-2.html",
+      "index": 83
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 121",
+      "url": "https://gacsach.top/doc-online/32002/phep-thuat-nguyen-thuy-chuong-121.html",
+      "index": 84
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 122",
+      "url": "https://gacsach.top/doc-online/32003/phep-thuat-nguyen-thuy-chuong-122.html",
+      "index": 85
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 123",
+      "url": "https://gacsach.top/doc-online/32004/phep-thuat-nguyen-thuy-chuong-123.html",
+      "index": 86
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 124",
+      "url": "https://gacsach.top/doc-online/32005/phep-thuat-nguyen-thuy-chuong-124.html",
+      "index": 87
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 125",
+      "url": "https://gacsach.top/doc-online/32006/phep-thuat-nguyen-thuy-chuong-125.html",
+      "index": 88
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 126",
+      "url": "https://gacsach.top/doc-online/32007/phep-thuat-nguyen-thuy-chuong-126.html",
+      "index": 89
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 127",
+      "url": "https://gacsach.top/doc-online/32009/phep-thuat-nguyen-thuy-chuong-127.html",
+      "index": 90
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 128 phần 1",
+      "url": "https://gacsach.top/doc-online/32011/phep-thuat-nguyen-thuy-chuong-128-phan-1.html",
+      "index": 91
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 128 phần 2",
+      "url": "https://gacsach.top/doc-online/32013/phep-thuat-nguyen-thuy-chuong-128-phan-2.html",
+      "index": 92
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 129 phần 1",
+      "url": "https://gacsach.top/doc-online/32018/phep-thuat-nguyen-thuy-chuong-129-phan-1.html",
+      "index": 93
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 129 phần 2",
+      "url": "https://gacsach.top/doc-online/32019/phep-thuat-nguyen-thuy-chuong-129-phan-2.html",
+      "index": 94
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 130",
+      "url": "https://gacsach.top/doc-online/32056/phep-thuat-nguyen-thuy-chuong-130.html",
+      "index": 95
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 131",
+      "url": "https://gacsach.top/doc-online/32061/phep-thuat-nguyen-thuy-chuong-131.html",
+      "index": 96
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 132",
+      "url": "https://gacsach.top/doc-online/32062/phep-thuat-nguyen-thuy-chuong-132.html",
+      "index": 97
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 133",
+      "url": "https://gacsach.top/doc-online/32067/phep-thuat-nguyen-thuy-chuong-133.html",
+      "index": 98
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 134",
+      "url": "https://gacsach.top/doc-online/32070/phep-thuat-nguyen-thuy-chuong-134.html",
+      "index": 99
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 135",
+      "url": "https://gacsach.top/doc-online/32071/phep-thuat-nguyen-thuy-chuong-135.html",
+      "index": 100
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 136 - 137",
+      "url": "https://gacsach.top/doc-online/32078/phep-thuat-nguyen-thuy-chuong-136-137.html",
+      "index": 101
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 138 - 139",
+      "url": "https://gacsach.top/doc-online/32080/phep-thuat-nguyen-thuy-chuong-138-139.html",
+      "index": 102
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 140 phần 1",
+      "url": "https://gacsach.top/doc-online/32082/phep-thuat-nguyen-thuy-chuong-140-phan-1.html",
+      "index": 103
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 140 phần 2",
+      "url": "https://gacsach.top/doc-online/32087/phep-thuat-nguyen-thuy-chuong-140-phan-2.html",
+      "index": 104
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 141 phần 1",
+      "url": "https://gacsach.top/doc-online/32314/phep-thuat-nguyen-thuy-chuong-141-phan-1.html",
+      "index": 105
+    },
+    {
+      "title": "Phép Thuật Nguyên Thủy - Chương 141 phần 2",
+      "url": "https://gacsach.top/doc-online/32762/phep-thuat-nguyen-thuy-chuong-141-phan-2.html",
+      "index": 106
+    }
+  ]
+}
