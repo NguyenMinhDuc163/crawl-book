@@ -1,0 +1,474 @@
+{
+  "title": "Di Sản Kế Thừa - Cậu Bé Cưỡi Rồng - Phần 4 - Inheritance",
+  "author": "Christopher Paolini",
+  "category": "Văn học phương TâyKỳ Ảo",
+  "status": "Full",
+  "coverImage": "https://gacsach.top/sites/default/files/styles/book310/public/cau-be-cuoi-rong-phan-4.jpg",
+  "description": "Inheritance (Di Sản Thừa Kế) là cuốn sách thứ tư và cuối cùng trong bộ Inheritance Cycle của nhà văn người Mỹ Christopher Paolini.\nInheritance (Di Sản Thừa Kế) bắt đầu khi quân Varden tấn công Belatona, một thành phố của Đế quốc. Trong trận chiến, Saphira, cô em rồng của Eragon, suýt bị giết chết bởi một Dauthdaert (ngọn giáo chết chóc) có tên là Niernen - vốn là một vũ khí được chế tạo từ thời Chiến tranh Rồng nhằm phá hủy hàng rào bảo vệ ma thuật và tiêu diệt rồng. Belatona nhanh chóng bị Varden nắm giữ, và sau đó một mối liên hệ đồng minh được thành lập giữa Varden và các ma mèo. Grimmr (vua của các ma mèo) yêu cầu một vị trí bên cạnh ngai vàng ở Urû'baen nếu Varden chiến thắng cho cái giá của sự liên minh này.",
+  "rating": "7.4",
+  "votes": "5",
+  "views": "81767",
+  "totalChapters": 92,
+  "chapters": [
+    {
+      "title": "0. TÓM TẮT: Eragon, Eldest và Brisingr",
+      "url": "https://gacsach.top/doc-online/8470/0-tom-tat-eragon-eldest-va-brisingr.html",
+      "index": 1
+    },
+    {
+      "title": "01.TIẾN VÀO THÀNH PHỐ",
+      "url": "https://gacsach.top/doc-online/8471/01tien-vao-thanh-pho.html",
+      "index": 2
+    },
+    {
+      "title": "02.CÂY BÚA DŨNG MÃNH NGÃ XUỐNG",
+      "url": "https://gacsach.top/doc-online/8472/02cay-bua-dung-manh-nga-xuong.html",
+      "index": 3
+    },
+    {
+      "title": "03.BÓNG ĐEN NƠI CHÂN TRỜI",
+      "url": "https://gacsach.top/doc-online/8473/03bong-den-noi-chan-troi.html",
+      "index": 4
+    },
+    {
+      "title": "04.VUA MÈO",
+      "url": "https://gacsach.top/doc-online/8474/04vua-meo.html",
+      "index": 5
+    },
+    {
+      "title": "05.LẤY SỨC",
+      "url": "https://gacsach.top/doc-online/8475/05lay-suc.html",
+      "index": 6
+    },
+    {
+      "title": "06.KÝ ỨC CỦA NGƯỜI CHẾT",
+      "url": "https://gacsach.top/doc-online/8476/06ky-uc-cua-nguoi-chet.html",
+      "index": 7
+    },
+    {
+      "title": "07.THẾ NÀO MỚI LÀ ĐÀN ÔNG?",
+      "url": "https://gacsach.top/doc-online/8477/07the-nao-moi-la-dan-ong.html",
+      "index": 8
+    },
+    {
+      "title": "08.CÁI GIÁ CỦA QUYỀN LỰC",
+      "url": "https://gacsach.top/doc-online/8478/08cai-gia-cua-quyen-luc.html",
+      "index": 9
+    },
+    {
+      "title": "09.VƯỢT CẠN",
+      "url": "https://gacsach.top/doc-online/8479/09vuot-can.html",
+      "index": 10
+    },
+    {
+      "title": "10. HÁT RU",
+      "url": "https://gacsach.top/doc-online/8480/10-hat-ru.html",
+      "index": 11
+    },
+    {
+      "title": "11. KHÔNG NGƠI NGHỈ",
+      "url": "https://gacsach.top/doc-online/8481/11-khong-ngoi-nghi.html",
+      "index": 12
+    },
+    {
+      "title": "12. KHIÊU VŨ CÙNG GƯƠM KIẾM",
+      "url": "https://gacsach.top/doc-online/8482/12-khieu-vu-cung-guom-kiem.html",
+      "index": 13
+    },
+    {
+      "title": "13. KHÔNG VINH QUANG, KHÔNG DANH DỰ, CHỈ CÓ NHỮNG TIẾNG QUÁT THÁO TẠI VÙNG ĐẤT XUI XẺO",
+      "url": "https://gacsach.top/doc-online/8483/13-khong-vinh-quang-khong-danh-du-chi-co-nhung-tieng-quat-thao-tai-vung-dat-xui-xeo",
+      "index": 14
+    },
+    {
+      "title": "14. THỰC NGUYỆT NHÂN",
+      "url": "https://gacsach.top/doc-online/8484/14-thuc-nguyet-nhan.html",
+      "index": 15
+    },
+    {
+      "title": "15. NGHE NGÓNG VÀ VIẾT LÁCH",
+      "url": "https://gacsach.top/doc-online/8485/15-nghe-ngong-va-viet-lach.html",
+      "index": 16
+    },
+    {
+      "title": "16. AROUGHS",
+      "url": "https://gacsach.top/doc-online/8486/16-aroughs.html",
+      "index": 17
+    },
+    {
+      "title": "17. DRAS- LEONA",
+      "url": "https://gacsach.top/doc-online/8487/17-dras-leona.html",
+      "index": 18
+    },
+    {
+      "title": "18. TUNG XƯƠNG",
+      "url": "https://gacsach.top/doc-online/8488/18-tung-xuong.html",
+      "index": 19
+    },
+    {
+      "title": "19. BẠN VÀ THÙ",
+      "url": "https://gacsach.top/doc-online/8489/19-ban-va-thu.html",
+      "index": 20
+    },
+    {
+      "title": "20. BỘT LỬA",
+      "url": "https://gacsach.top/doc-online/8490/20-bot-lua.html",
+      "index": 21
+    },
+    {
+      "title": "21. KHÓI BỤI - Phần 01",
+      "url": "https://gacsach.top/doc-online/8491/21-khoi-bui-phan-01.html",
+      "index": 22
+    },
+    {
+      "title": "22. KHÓI BỤI - Phần 02",
+      "url": "https://gacsach.top/doc-online/74220/22-khoi-bui-phan-02.html",
+      "index": 23
+    },
+    {
+      "title": "23. CHUYỂN GIAO QUYỀN LỰC",
+      "url": "https://gacsach.top/doc-online/8492/23-chuyen-giao-quyen-luc.html",
+      "index": 24
+    },
+    {
+      "title": "24. THARDSVERGÛNDNZMAL",
+      "url": "https://gacsach.top/doc-online/8493/24-thardsvergundnzmal.html",
+      "index": 25
+    },
+    {
+      "title": "25. HỌC HỎI",
+      "url": "https://gacsach.top/doc-online/74265/25-hoc-hoi.html",
+      "index": 26
+    },
+    {
+      "title": "26. TỰ TIẾC THƯƠNG",
+      "url": "https://gacsach.top/doc-online/8494/26-tu-tiec-thuong.html",
+      "index": 27
+    },
+    {
+      "title": "27. TỪ TRÁI TIM TỚI TRÁI TIM",
+      "url": "https://gacsach.top/doc-online/8495/27-tu-trai-tim-toi-trai-tim.html",
+      "index": 28
+    },
+    {
+      "title": "28. PHÁT HIỆN",
+      "url": "https://gacsach.top/doc-online/8496/28-phat-hien.html",
+      "index": 29
+    },
+    {
+      "title": "29. QUYẾT ĐỊNH",
+      "url": "https://gacsach.top/doc-online/8497/29-quyet-dinh.html",
+      "index": 30
+    },
+    {
+      "title": "30. DƯỚI ĐỒI ĐÁ - Phần 01",
+      "url": "https://gacsach.top/doc-online/8498/30-duoi-doi-da-phan-01.html",
+      "index": 31
+    },
+    {
+      "title": "31. DƯỚI ĐỒI ĐÁ - Phần 02",
+      "url": "https://gacsach.top/doc-online/74228/31-duoi-doi-da-phan-02.html",
+      "index": 32
+    },
+    {
+      "title": "32. TẾ THẦN",
+      "url": "https://gacsach.top/doc-online/8499/32-te-than.html",
+      "index": 33
+    },
+    {
+      "title": "33. NHỮNG KẺ NGOẠI ĐẠO ĐÀO TẨU",
+      "url": "https://gacsach.top/doc-online/8500/33-nhung-ke-ngoai-dao-dao-tau.html",
+      "index": 34
+    },
+    {
+      "title": "34. CHUÔNG RUNG",
+      "url": "https://gacsach.top/doc-online/8501/34-chuong-rung.html",
+      "index": 35
+    },
+    {
+      "title": "35. ĐỘNG – GAI - ĐEN",
+      "url": "https://gacsach.top/doc-online/8502/35-dong-gai-den.html",
+      "index": 36
+    },
+    {
+      "title": "36. BÚA VÀ MŨ TRỤ",
+      "url": "https://gacsach.top/doc-online/8503/36-bua-va-mu-tru.html",
+      "index": 37
+    },
+    {
+      "title": "37. VÀ TƯỜNG ĐỔ",
+      "url": "https://gacsach.top/doc-online/8504/37-va-tuong-do.html",
+      "index": 38
+    },
+    {
+      "title": "38. BÊN BỜ HỒ LEONA",
+      "url": "https://gacsach.top/doc-online/8505/38-ben-bo-ho-leona.html",
+      "index": 39
+    },
+    {
+      "title": "39. LỜI THẾ CỦA KỴ SĨ RỒNG",
+      "url": "https://gacsach.top/doc-online/8506/39-loi-the-cua-ky-si-rong.html",
+      "index": 40
+    },
+    {
+      "title": "40. CUỘC HỌP KÍN CỦA CÁC VỊ VUA - Phần 01",
+      "url": "https://gacsach.top/doc-online/8507/40-cuoc-hop-kin-cua-cac-vi-vua-phan-01.html",
+      "index": 41
+    },
+    {
+      "title": "41. CUỘC HỌP KÍN CỦA CÁC VỊ VUA - Phần 02",
+      "url": "https://gacsach.top/doc-online/74266/41-cuoc-hop-kin-cua-cac-vi-vua-phan-02.html",
+      "index": 42
+    },
+    {
+      "title": "42. MÊ CUNG KHÔNG LỐI THOÁT",
+      "url": "https://gacsach.top/doc-online/8508/42-me-cung-khong-loi-thoat.html",
+      "index": 43
+    },
+    {
+      "title": "43. NHỮNG MẢNH VỤN, NỬA THẤY NỬA KHÔNG VÀ MƠ HỒ",
+      "url": "https://gacsach.top/doc-online/8509/43-nhung-manh-vun-nua-thay-nua-khong-va-mo-ho.html",
+      "index": 44
+    },
+    {
+      "title": "44. CÂU HỎI KHÔNG LỜI ĐÁP",
+      "url": "https://gacsach.top/doc-online/8510/44-cau-hoi-khong-loi-dap.html",
+      "index": 45
+    },
+    {
+      "title": "45. RA ĐI",
+      "url": "https://gacsach.top/doc-online/8511/45-ra-di.html",
+      "index": 46
+    },
+    {
+      "title": "46. ĐAU KHỔ VÌ KHÔNG CHẮC CHẮN",
+      "url": "https://gacsach.top/doc-online/8512/46-dau-kho-vi-khong-chac-chan.html",
+      "index": 47
+    },
+    {
+      "title": "47. CĂN PHÒNG CỦA NHÀ TIÊN TRI",
+      "url": "https://gacsach.top/doc-online/8513/47-can-phong-cua-nha-tien-tri.html",
+      "index": 48
+    },
+    {
+      "title": "48. TRÊN CÁNH RỒNG",
+      "url": "https://gacsach.top/doc-online/8514/48-tren-canh-rong.html",
+      "index": 49
+    },
+    {
+      "title": "49. LÃO RÓT MẬT VÀO TAI NGƯƠI, LÃO CHẠM TAY VÀO NGƯỜI NGƯƠI",
+      "url": "https://gacsach.top/doc-online/8515/49-lao-rot-mat-vao-tai-nguoi-lao-cham-tay-vao-nguoi-nguoi.html",
+      "index": 50
+    },
+    {
+      "title": "50. NHỮNG CUỘC NỔI LOẠN NHO NHỎ",
+      "url": "https://gacsach.top/doc-online/8516/50-nhung-cuoc-noi-loan-nho-nho.html",
+      "index": 51
+    },
+    {
+      "title": "51. VƯƠNG MIỆN BĂNG TUYẾT - Phần 01",
+      "url": "https://gacsach.top/doc-online/8517/51-vuong-mien-bang-tuyet-phan-01.html",
+      "index": 52
+    },
+    {
+      "title": "52. VƯƠNG MIỆN BĂNG TUYẾT - Phần 02",
+      "url": "https://gacsach.top/doc-online/74267/52-vuong-mien-bang-tuyet-phan-02.html",
+      "index": 53
+    },
+    {
+      "title": "53. GIÒI ĐẤT",
+      "url": "https://gacsach.top/doc-online/8521/53-gioi-dat.html",
+      "index": 54
+    },
+    {
+      "title": "54. GIỮA ĐỐNG ĐỔ NÁT",
+      "url": "https://gacsach.top/doc-online/8518/54-giua-dong-do-nat.html",
+      "index": 55
+    },
+    {
+      "title": "55. SNALGLÍ CHO HAI NGƯỜI",
+      "url": "https://gacsach.top/doc-online/8519/55-snalgli-cho-hai-nguoi.html",
+      "index": 56
+    },
+    {
+      "title": "56. TẢNG ĐÁ KUTHIAN",
+      "url": "https://gacsach.top/doc-online/8520/56-tang-da-kuthian.html",
+      "index": 57
+    },
+    {
+      "title": "57. CẢ THẾ GIỚI CHỈ  LÀ GIẤC MƠ",
+      "url": "https://gacsach.top/doc-online/8522/57-ca-the-gioi-chi-la-giac-mo.html",
+      "index": 58
+    },
+    {
+      "title": "58. CÂU HỎI VỀ NHÂN CÁCH",
+      "url": "https://gacsach.top/doc-online/8523/58-cau-hoi-ve-nhan-cach.html",
+      "index": 59
+    },
+    {
+      "title": "59. HẦM MỘ CỦA NHỮNG LINH HỒN",
+      "url": "https://gacsach.top/doc-online/8524/59-ham-mo-cua-nhung-linh-hon.html",
+      "index": 60
+    },
+    {
+      "title": "60. NHỮNG HỐC ĐÁ - Phần 01",
+      "url": "https://gacsach.top/doc-online/8525/60-nhung-hoc-da-phan-01.html",
+      "index": 61
+    },
+    {
+      "title": "61. NHỮNG HỐC ĐÁ - Phần 02",
+      "url": "https://gacsach.top/doc-online/8526/61-nhung-hoc-da-phan-02.html",
+      "index": 62
+    },
+    {
+      "title": "62. TRỞ VỀ",
+      "url": "https://gacsach.top/doc-online/8527/62-tro-ve.html",
+      "index": 63
+    },
+    {
+      "title": "63. THÀNH PHỐ BUỒN THƯƠNG",
+      "url": "https://gacsach.top/doc-online/8528/63-thanh-pho-buon-thuong.html",
+      "index": 64
+    },
+    {
+      "title": "64. HỘI ĐỒNG CHIẾN",
+      "url": "https://gacsach.top/doc-online/8529/64-hoi-dong-chien.html",
+      "index": 65
+    },
+    {
+      "title": "65. VẤN ĐỀ TRÁCH NHIỆM",
+      "url": "https://gacsach.top/doc-online/8530/65-van-de-trach-nhiem.html",
+      "index": 66
+    },
+    {
+      "title": "66. ÁNH LỬA ĐÊM ĐEN",
+      "url": "https://gacsach.top/doc-online/8531/66-anh-lua-dem-den.html",
+      "index": 67
+    },
+    {
+      "title": "67. VƯỢT QUA TƯỜNG THÀNH BƯỚC VÀO CHỖ CHẾT",
+      "url": "https://gacsach.top/doc-online/8533/67-vuot-qua-tuong-thanh-buoc-vao-cho-chet.html",
+      "index": 68
+    },
+    {
+      "title": "68. SẤM RỀN",
+      "url": "https://gacsach.top/doc-online/8534/68-sam-ren.html",
+      "index": 69
+    },
+    {
+      "title": "69. SẼ KHÔNG GIẾT....",
+      "url": "https://gacsach.top/doc-online/8535/69-se-khong-giet.html",
+      "index": 70
+    },
+    {
+      "title": "70. GIỮA TRẬN ĐỊA",
+      "url": "https://gacsach.top/doc-online/8536/70-giua-tran-dia.html",
+      "index": 71
+    },
+    {
+      "title": "71. CÁI TÊN CỦA MỌI CÁI TÊN - Phần 01",
+      "url": "https://gacsach.top/doc-online/8537/71-cai-ten-cua-moi-cai-ten-phan-01.html",
+      "index": 72
+    },
+    {
+      "title": "72. CÁI TÊN CỦA MỌI CÁI TÊN - Phần 02",
+      "url": "https://gacsach.top/doc-online/8532/72-cai-ten-cua-moi-cai-ten-phan-02.html",
+      "index": 73
+    },
+    {
+      "title": "73. SỨC NGƯỜI CHỐNG CHỌI KIM LOẠI - Phần 01",
+      "url": "https://gacsach.top/doc-online/8538/73-suc-nguoi-chong-choi-kim-loai-phan-01.html",
+      "index": 74
+    },
+    {
+      "title": "74. SỨC NGƯỜI CHỐNG CHỌI KIM LOẠI - Phần 02",
+      "url": "https://gacsach.top/doc-online/74268/74-suc-nguoi-chong-choi-kim-loai-phan-02.html",
+      "index": 75
+    },
+    {
+      "title": "75. NỢ MÁU PHẢI TRẢ BẰNG MÁU",
+      "url": "https://gacsach.top/doc-online/8547/75-no-mau-phai-tra-bang-mau.html",
+      "index": 76
+    },
+    {
+      "title": "75. SỨC MẠNH CỦA TRI THỨC - Phần 01",
+      "url": "https://gacsach.top/doc-online/8539/75-suc-manh-cua-tri-thuc-phan-01.html",
+      "index": 77
+    },
+    {
+      "title": "76. SỨC MẠNH CỦA TRI THỨC - Phần 02",
+      "url": "https://gacsach.top/doc-online/74269/76-suc-manh-cua-tri-thuc-phan-02.html",
+      "index": 78
+    },
+    {
+      "title": "77. GIÃY CHẾT",
+      "url": "https://gacsach.top/doc-online/8540/77-giay-chet.html",
+      "index": 79
+    },
+    {
+      "title": "78. CÁNH ĐỒNG TẦM MA",
+      "url": "https://gacsach.top/doc-online/8541/78-canh-dong-tam-ma.html",
+      "index": 80
+    },
+    {
+      "title": "79. NGÔI BÁU THUỘC VỀ AI - Phần 01",
+      "url": "https://gacsach.top/doc-online/8542/79-ngoi-bau-thuoc-ve-ai-phan-01.html",
+      "index": 81
+    },
+    {
+      "title": "80. NGÔI BÁU THUỘC VỀ AI - Phần 02",
+      "url": "https://gacsach.top/doc-online/74270/80-ngoi-bau-thuoc-ve-ai-phan-02.html",
+      "index": 82
+    },
+    {
+      "title": "81. LỜI TỪ THÍCH HỢP",
+      "url": "https://gacsach.top/doc-online/8543/81-loi-tu-thich-hop.html",
+      "index": 83
+    },
+    {
+      "title": "82. CON THUYỀN - Phần 01",
+      "url": "https://gacsach.top/doc-online/8544/82-con-thuyen-phan-01.html",
+      "index": 84
+    },
+    {
+      "title": "83. CON THUYỀN - Phần 02",
+      "url": "https://gacsach.top/doc-online/74271/83-con-thuyen-phan-02.html",
+      "index": 85
+    },
+    {
+      "title": "84. FÍRNEN - Phần 01",
+      "url": "https://gacsach.top/doc-online/8545/84-firnen-phan-01.html",
+      "index": 86
+    },
+    {
+      "title": "85. FIRNEN - Phần 02",
+      "url": "https://gacsach.top/doc-online/74280/85-firnen-phan-02.html",
+      "index": 87
+    },
+    {
+      "title": "86. CON NGƯỜI CỦA LƯƠNG TÂM - Phần 01",
+      "url": "https://gacsach.top/doc-online/8546/86-con-nguoi-cua-luong-tam-phan-01.html",
+      "index": 88
+    },
+    {
+      "title": "87. CON NGƯỜI CỦA LƯƠNG TÂM - Phần 02",
+      "url": "https://gacsach.top/doc-online/74283/87-con-nguoi-cua-luong-tam-phan-02.html",
+      "index": 89
+    },
+    {
+      "title": "88. NHỮNG LỜI HỨA, CŨ VÀ MỚI - Phần 01",
+      "url": "https://gacsach.top/doc-online/8548/88-nhung-loi-hua-cu-va-moi-phan-01.html",
+      "index": 90
+    },
+    {
+      "title": "89. NHỮNG LỜI HỨA CŨ VÀ MỚI - Phần 02",
+      "url": "https://gacsach.top/doc-online/74284/89-nhung-loi-hua-cu-va-moi-phan-02.html",
+      "index": 91
+    },
+    {
+      "title": "90. RA ĐI (Hết)",
+      "url": "https://gacsach.top/doc-online/8549/90-ra-di-het.html",
+      "index": 92
+    }
+  ]
+}

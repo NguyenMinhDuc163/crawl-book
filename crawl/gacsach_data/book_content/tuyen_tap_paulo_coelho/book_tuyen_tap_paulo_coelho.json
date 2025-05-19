@@ -1,0 +1,44 @@
+{
+  "title": "Tuyển tập Paulo Coelho",
+  "author": "Paulo Coelho",
+  "category": "Văn học phương Tây",
+  "status": "Full",
+  "coverImage": "https://gacsach.top/sites/default/files/styles/book310/public/tuyen-tap-truyen-ngan-paulo-coelho.jpg",
+  "description": "Tuyển Tập Truyện Ngắn Paulo Coelho gồm có:\nTiếng nhạc phát ra từ ngôi nhàĐôi dép của JoséCâu chuyện của cây cungMột chỗ trên Thiên đườngMột chuyện ngày Giáng SinhTruyện cực ngắn",
+  "rating": "10",
+  "votes": "1",
+  "views": "5638",
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "title": "01. Sơ lược tiểu sử",
+      "url": "https://gacsach.top/doc-online/97713/01-so-luoc-tieu-su.html",
+      "index": 1
+    },
+    {
+      "title": "02. Tiếng nhạc phát ra từ ngôi nhà",
+      "url": "https://gacsach.top/doc-online/97714/02-tieng-nhac-phat-ra-tu-ngoi-nha.html",
+      "index": 2
+    },
+    {
+      "title": "03. Câu chuyện của cây cung - Phần 1",
+      "url": "https://gacsach.top/doc-online/97716/03-cau-chuyen-cua-cay-cung-phan-1.html",
+      "index": 3
+    },
+    {
+      "title": "04. Câu chuyện của cây cung - Phần 2",
+      "url": "https://gacsach.top/doc-online/97715/04-cau-chuyen-cua-cay-cung-phan-2.html",
+      "index": 4
+    },
+    {
+      "title": "05. Một chuyện ngày Giáng Sinh",
+      "url": "https://gacsach.top/doc-online/97759/05-mot-chuyen-ngay-giang-sinh.html",
+      "index": 5
+    },
+    {
+      "title": "06. Một chỗ trên thiên đường",
+      "url": "https://gacsach.top/doc-online/97717/06-mot-cho-tren-thien-duong.html",
+      "index": 6
+    }
+  ]
+}

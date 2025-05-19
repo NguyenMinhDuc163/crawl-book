@@ -18,7 +18,7 @@ const headers = {
 
 // Thư mục lưu dữ liệu
 const DATA_DIR = './gacsach_data';
-const pageLimit = 2;
+const pageLimit = 60;
 // Tạo thư mục nếu chưa tồn tại
 if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, { recursive: true });
